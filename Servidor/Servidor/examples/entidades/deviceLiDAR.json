@@ -1,0 +1,32 @@
+{
+  "id": "urn:ngsi-ld:DeviceLiDAR:001",
+  "type": "Device",
+  "controlledProperty": {
+    "type": "Property",
+    "value": ["distance"]
+  },
+  "batteryLevel": {  
+    "type": "Property",  
+    "value": 0.75  
+  },
+  "dateCreated": {
+    "type": "Property",
+    "value": "2026-01-01T00:00:00Z"
+  },
+  "deviceCategory": {
+    "type": "Property",
+    "value": ["sensor"]
+  },
+  "refVehicle": {
+    "type": "Relationship",
+    "object": "urn:ngsi-ld:AutonomousVehicle:001"
+  },
+  "refDeviceModel": {
+    "type": "Relationship",
+    "object": "urn:ngsi-ld:DeviceModel:LiDARModelX"
+  },
+  "@context": [
+    "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+    "https://cdn.jsdelivr.net/gh/hugorevu/dataModel.AutonomousVehicle@cbd61d0/FIWARE_DEVICE_MODEL/examples/datamodels.context-ngsi.jsonld"
+  ]
+}

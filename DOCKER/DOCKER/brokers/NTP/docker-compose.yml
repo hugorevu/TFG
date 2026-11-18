@@ -1,0 +1,9 @@
+services:
+  ntp:
+    image: cturra/ntp
+    container_name: ntp-server
+    restart: unless-stopped
+    ports:
+      - "123:123/udp"
+    volumes:
+      - ./chrony.conf:/etc/chrony/chrony.conf

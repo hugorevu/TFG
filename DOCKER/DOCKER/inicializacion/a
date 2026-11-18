@@ -1,0 +1,52 @@
+def delete_subscriptions(broker_url):
+
+    url = f"{broker_url}/subscriptions"
+
+    print("Deleting subscriptions...")
+
+    total_deleted = 0
+
+    while True:
+
+        # Recuperar una página de suscripciones
+        res = requests.get(
+            url,
+            headers={"Accept": "application/ld+json"},
+            params={"limit": 100},
+            timeout=15
+        )
+
+        if res.status_code != 200:
+            raise RuntimeError(
+                f"Error getting subscriptions: "
+                f"{res.status_code} {res.text}"
+            )
+
+        subs = res.json()
+
+        # Si no quedan suscripciones, terminar
+        if not subs:
+            break
+
+        # Eliminar todas las de esta página
+        for sub in subs:
+
+            sub_id = sub["id"]
+
+            delete_url = f"{url}/{quote(sub_id, safe='')}"
+
+            r = requests.delete(
+                delete_url,
+                timeout=15
+            )
+
+            if r.status_code == 204:
+                total_deleted += 1
+                print(f"Deleted {sub_id}")
+            else:
+                raise RuntimeError(
+                    f"Error deleting {sub_id}: "
+                    f"{r.status_code} {r.text}"
+                )
+
+    print(f"Subscriptions deletion finished: {total_deleted} deleted")

@@ -1,0 +1,81 @@
+version: "3.5"
+
+services:
+
+  orion:
+    image: fiware/orion-ld:1.12.0
+    hostname: orion
+    container_name: fiware-orion
+    restart: always
+    environment:
+      - ORIONLD_TROE=TRUE
+      - ORIONLD_TROE_USER=orion
+      - ORIONLD_TROE_PWD=orion
+      - ORIONLD_TROE_HOST=timescale
+      - ORIONLD_MONGO_HOST=mongo-db
+
+      # Pools de conexiones
+      #- ORIONLD_MONGO_POOL_SIZE=20
+      #- ORIONLD_TROE_POOL_SIZE=20
+    depends_on:
+      timescale:
+        condition: service_healthy
+      mongo-db:
+        condition: service_started
+    ports:
+      - "1026:1026"
+    command: -logLevel WARN
+
+  mongo-db:
+    image: mongo:4.4
+    hostname: mongo-db
+    container_name: db-mongo
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo-db:/data/db
+
+  timescale:
+      image: timescale/timescaledb:latest-pg14
+      hostname: timescale
+      container_name: timescale
+      environment:
+        - POSTGRES_USER=orion
+        - POSTGRES_PASSWORD=orion
+        - POSTGRES_DB=orion
+      ports:
+        - "5433:5432"
+      volumes:
+        - timescale-data:/var/lib/postgresql/data
+      healthcheck:
+        test: ["CMD-SHELL", "pg_isready -U orion"]
+        interval: 10s
+        timeout: 5s
+        retries: 5
+
+  mintaka:
+    image: fiware/mintaka:0.4.3
+    hostname: mintaka
+    container_name: mintaka
+    restart: always
+    ports:
+      - "8080:8080"
+    environment:
+      - DATASOURCES_DEFAULT_URL=jdbc:postgresql://timescale:5432/orion
+      - DATASOURCES_DEFAULT_USERNAME=orion
+      - DATASOURCES_DEFAULT_PASSWORD=orion
+    depends_on:
+      - timescale
+
+  grafana:
+    image: grafana/grafana:latest
+    container_name: grafana_orion
+    ports:
+      - "3000:3000"
+    environment:
+      - GF_SECURITY_ADMIN_USER=admin
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+
+volumes:
+  mongo-db:
+  timescale-data:

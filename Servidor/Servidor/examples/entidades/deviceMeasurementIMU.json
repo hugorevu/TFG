@@ -1,0 +1,40 @@
+{
+  "id": "urn:ngsi-ld:DeviceMeasurementIMU:001",
+  "type": "DeviceMeasurement",
+  "controlledProperty": {
+    "type": "Property",
+    "value": "acceleration"
+  },
+  "textValue": {
+    "type": "Property",
+    "value": {
+      "accelerometer": {
+        "x": -3069.94,
+        "y": -43945.47,
+        "z": -314.52
+      },
+      "gyroscope": {
+        "x": -4.19e-08,
+        "y": 2.43e-07,
+        "z": -4.69e-11
+      },
+      "compass": 0.0068
+    }
+  },
+  "refDevice": {
+    "type": "Relationship",
+    "object": "urn:ngsi-ld:DeviceIMU:001"
+  },
+  "refVehicle": {
+    "type": "Relationship",
+    "object": "urn:ngsi-ld:AutonomousVehicle:001"
+  },
+  "dateObserved": {
+    "type": "Property",
+    "value": "2026-04-23T10:00:00Z"
+  },
+  "@context": [
+    "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+    "https://cdn.jsdelivr.net/gh/hugorevu/dataModel.AutonomousVehicle@cbd61d0/FIWARE_DEVICE_MODEL/examples/datamodels.context-ngsi.jsonld"
+  ]
+}

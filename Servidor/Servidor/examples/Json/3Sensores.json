@@ -1,0 +1,2902 @@
+[
+    {
+        "frame": 0,
+        "sensors": {
+            "gnss": {
+                "latitude": 6.826223,
+                "longitude": 4.246872,
+                "altitude": 7.944008
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 7.541693,
+                    "y": 3.980346,
+                    "z": 4.931899
+                },
+                "gyroscope": {
+                    "x": 7.302035,
+                    "y": 3.26216,
+                    "z": 4.657338
+                },
+                "compass": 8.116853
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000000.png"
+            }
+        }
+    },
+    {
+        "frame": 1,
+        "sensors": {
+            "gnss": {
+                "latitude": 4.618288,
+                "longitude": 6.360051,
+                "altitude": 0.7431
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 6.618179,
+                    "y": 3.74413,
+                    "z": 6.403658
+                },
+                "gyroscope": {
+                    "x": 8.256506,
+                    "y": 7.189269,
+                    "z": 0.288396
+                },
+                "compass": 6.551475
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000001.png"
+            }
+        }
+    },
+    {
+        "frame": 2,
+        "sensors": {
+            "gnss": {
+                "latitude": 5.249929,
+                "longitude": 8.69585,
+                "altitude": 3.656054
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 8.577722,
+                    "y": 8.768695,
+                    "z": 2.363534
+                },
+                "gyroscope": {
+                    "x": 6.881562,
+                    "y": 3.154102,
+                    "z": 7.429448
+                },
+                "compass": 8.864336
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000002.png"
+            }
+        }
+    },
+    {
+        "frame": 3,
+        "sensors": {
+            "gnss": {
+                "latitude": 0.895831,
+                "longitude": 8.477816,
+                "altitude": 1.681187
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 6.247503,
+                    "y": 1.756075,
+                    "z": 6.200294
+                },
+                "gyroscope": {
+                    "x": 0.111772,
+                    "y": 0.832496,
+                    "z": 1.395163
+                },
+                "compass": 3.652056
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000003.png"
+            }
+        }
+    },
+    {
+        "frame": 4,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.650692,
+                "longitude": 3.983351,
+                "altitude": 2.38192
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 6.278634,
+                    "y": 7.732141,
+                    "z": 6.807793
+                },
+                "gyroscope": {
+                    "x": 2.318838,
+                    "y": 8.759717,
+                    "z": 2.691898
+                },
+                "compass": 8.019458
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000004.png"
+            }
+        }
+    },
+    {
+        "frame": 5,
+        "sensors": {
+            "gnss": {
+                "latitude": 8.396004,
+                "longitude": 1.769752,
+                "altitude": 0.862109
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 0.161384,
+                    "y": 1.74531,
+                    "z": 4.750111
+                },
+                "gyroscope": {
+                    "x": 7.383548,
+                    "y": 5.375811,
+                    "z": 4.008059
+                },
+                "compass": 2.057295
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000005.png"
+            }
+        }
+    },
+    {
+        "frame": 6,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.806355,
+                "longitude": 7.077305,
+                "altitude": 1.846364
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 6.895947,
+                    "y": 4.199286,
+                    "z": 6.108842
+                },
+                "gyroscope": {
+                    "x": 8.326598,
+                    "y": 0.359332,
+                    "z": 0.31422
+                },
+                "compass": 5.976101
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000006.png"
+            }
+        }
+    },
+    {
+        "frame": 7,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.936938,
+                "longitude": 3.427197,
+                "altitude": 1.800525
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 5.92954,
+                    "y": 2.248319,
+                    "z": 3.025715
+                },
+                "gyroscope": {
+                    "x": 0.28175,
+                    "y": 5.356253,
+                    "z": 2.791289
+                },
+                "compass": 3.273049
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000007.png"
+            }
+        }
+    },
+    {
+        "frame": 8,
+        "sensors": {
+            "gnss": {
+                "latitude": 5.524717,
+                "longitude": 1.626517,
+                "altitude": 4.629256
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 4.66212,
+                    "y": 4.612551,
+                    "z": 5.767636
+                },
+                "gyroscope": {
+                    "x": 1.833101,
+                    "y": 5.251081,
+                    "z": 4.626969
+                },
+                "compass": 1.191345
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000008.png"
+            }
+        }
+    },
+    {
+        "frame": 9,
+        "sensors": {
+            "gnss": {
+                "latitude": 7.982996,
+                "longitude": 0.680611,
+                "altitude": 8.210772
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 5.754186,
+                    "y": 7.894568,
+                    "z": 8.034817
+                },
+                "gyroscope": {
+                    "x": 4.34312,
+                    "y": 4.276869,
+                    "z": 6.415045
+                },
+                "compass": 4.863798
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000009.png"
+            }
+        }
+    },
+    {
+        "frame": 10,
+        "sensors": {
+            "gnss": {
+                "latitude": 0.927367,
+                "longitude": 4.598338,
+                "altitude": 5.206946
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 5.984256,
+                    "y": 8.639706,
+                    "z": 3.520044
+                },
+                "gyroscope": {
+                    "x": 2.864859,
+                    "y": 2.933006,
+                    "z": 4.242212
+                },
+                "compass": 4.877211
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000010.png"
+            }
+        }
+    },
+    {
+        "frame": 11,
+        "sensors": {
+            "gnss": {
+                "latitude": 2.110287,
+                "longitude": 5.288096,
+                "altitude": 2.290205
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 3.548549,
+                    "y": 6.970115,
+                    "z": 5.759081
+                },
+                "gyroscope": {
+                    "x": 0.170573,
+                    "y": 4.94282,
+                    "z": 8.146456
+                },
+                "compass": 4.66303
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000011.png"
+            }
+        }
+    },
+    {
+        "frame": 12,
+        "sensors": {
+            "gnss": {
+                "latitude": 5.398741,
+                "longitude": 5.214015,
+                "altitude": 8.720218
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 0.983368,
+                    "y": 5.689082,
+                    "z": 7.799646
+                },
+                "gyroscope": {
+                    "x": 3.029087,
+                    "y": 8.1155,
+                    "z": 2.488434
+                },
+                "compass": 0.814153
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000012.png"
+            }
+        }
+    },
+    {
+        "frame": 13,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.193484,
+                "longitude": 5.774185,
+                "altitude": 1.16417
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 0.42768,
+                    "y": 5.841854,
+                    "z": 0.930511
+                },
+                "gyroscope": {
+                    "x": 8.085783,
+                    "y": 6.50355,
+                    "z": 0.278613
+                },
+                "compass": 0.99067
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000013.png"
+            }
+        }
+    },
+    {
+        "frame": 14,
+        "sensors": {
+            "gnss": {
+                "latitude": 0.126034,
+                "longitude": 2.454085,
+                "altitude": 1.019439
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 1.085971,
+                    "y": 5.147583,
+                    "z": 2.072565
+                },
+                "gyroscope": {
+                    "x": 4.812961,
+                    "y": 1.527482,
+                    "z": 0.250186
+                },
+                "compass": 6.465736
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000014.png"
+            }
+        }
+    },
+    {
+        "frame": 15,
+        "sensors": {
+            "gnss": {
+                "latitude": 2.357219,
+                "longitude": 5.817393,
+                "altitude": 6.568334
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 8.404345,
+                    "y": 0.585606,
+                    "z": 7.513587
+                },
+                "gyroscope": {
+                    "x": 5.371249,
+                    "y": 0.208761,
+                    "z": 0.561356
+                },
+                "compass": 4.796817
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000015.png"
+            }
+        }
+    },
+    {
+        "frame": 16,
+        "sensors": {
+            "gnss": {
+                "latitude": 7.232403,
+                "longitude": 4.448817,
+                "altitude": 5.648388
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 7.33517,
+                    "y": 7.118069,
+                    "z": 4.529312
+                },
+                "gyroscope": {
+                    "x": 4.267788,
+                    "y": 1.233483,
+                    "z": 0.689162
+                },
+                "compass": 5.417371
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000016.png"
+            }
+        }
+    },
+    {
+        "frame": 17,
+        "sensors": {
+            "gnss": {
+                "latitude": 4.166251,
+                "longitude": 8.220081,
+                "altitude": 8.794609
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 5.507286,
+                    "y": 6.387651,
+                    "z": 0.277704
+                },
+                "gyroscope": {
+                    "x": 0.127261,
+                    "y": 2.729474,
+                    "z": 4.998899
+                },
+                "compass": 0.422358
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000017.png"
+            }
+        }
+    },
+    {
+        "frame": 18,
+        "sensors": {
+            "gnss": {
+                "latitude": 5.568056,
+                "longitude": 0.46576,
+                "altitude": 5.491051
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 2.847675,
+                    "y": 5.339815,
+                    "z": 6.710903
+                },
+                "gyroscope": {
+                    "x": 5.003894,
+                    "y": 0.06647,
+                    "z": 8.792146
+                },
+                "compass": 4.096669
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000018.png"
+            }
+        }
+    },
+    {
+        "frame": 19,
+        "sensors": {
+            "gnss": {
+                "latitude": 6.516273,
+                "longitude": 4.077022,
+                "altitude": 4.791189
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 0.861652,
+                    "y": 6.741513,
+                    "z": 0.554355
+                },
+                "gyroscope": {
+                    "x": 6.059541,
+                    "y": 7.471334,
+                    "z": 0.647505
+                },
+                "compass": 8.086027
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000019.png"
+            }
+        }
+    },
+    {
+        "frame": 20,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.298524,
+                "longitude": 0.305976,
+                "altitude": 5.823065
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 2.607524,
+                    "y": 1.193656,
+                    "z": 1.087263
+                },
+                "gyroscope": {
+                    "x": 3.379081,
+                    "y": 5.324684,
+                    "z": 5.596857
+                },
+                "compass": 7.509158
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000020.png"
+            }
+        }
+    },
+    {
+        "frame": 21,
+        "sensors": {
+            "gnss": {
+                "latitude": 7.192608,
+                "longitude": 0.141848,
+                "altitude": 3.460219
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 8.176601,
+                    "y": 3.574091,
+                    "z": 5.719421
+                },
+                "gyroscope": {
+                    "x": 2.25017,
+                    "y": 7.462788,
+                    "z": 3.014752
+                },
+                "compass": 1.191157
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000021.png"
+            }
+        }
+    },
+    {
+        "frame": 22,
+        "sensors": {
+            "gnss": {
+                "latitude": 6.950494,
+                "longitude": 7.585755,
+                "altitude": 3.341401
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 8.376441,
+                    "y": 4.16453,
+                    "z": 4.526428
+                },
+                "gyroscope": {
+                    "x": 6.807305,
+                    "y": 4.0502,
+                    "z": 3.111204
+                },
+                "compass": 8.232857
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000022.png"
+            }
+        }
+    },
+    {
+        "frame": 23,
+        "sensors": {
+            "gnss": {
+                "latitude": 4.123247,
+                "longitude": 1.38859,
+                "altitude": 6.458556
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 6.790806,
+                    "y": 7.349729,
+                    "z": 4.040466
+                },
+                "gyroscope": {
+                    "x": 0.660323,
+                    "y": 1.75122,
+                    "z": 0.516926
+                },
+                "compass": 5.631041
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000023.png"
+            }
+        }
+    },
+    {
+        "frame": 24,
+        "sensors": {
+            "gnss": {
+                "latitude": 8.218279,
+                "longitude": 2.710846,
+                "altitude": 8.080529
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 2.14086,
+                    "y": 2.533785,
+                    "z": 3.124074
+                },
+                "gyroscope": {
+                    "x": 6.667267,
+                    "y": 7.158378,
+                    "z": 8.446175
+                },
+                "compass": 8.331815
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000024.png"
+            }
+        }
+    },
+    {
+        "frame": 25,
+        "sensors": {
+            "gnss": {
+                "latitude": 4.42273,
+                "longitude": 5.106075,
+                "altitude": 6.579765
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 7.453392,
+                    "y": 4.313538,
+                    "z": 3.389232
+                },
+                "gyroscope": {
+                    "x": 5.161868,
+                    "y": 4.243693,
+                    "z": 0.701574
+                },
+                "compass": 2.166634
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000025.png"
+            }
+        }
+    },
+    {
+        "frame": 26,
+        "sensors": {
+            "gnss": {
+                "latitude": 4.954148,
+                "longitude": 3.880726,
+                "altitude": 0.367337
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 3.250743,
+                    "y": 5.894926,
+                    "z": 3.272851
+                },
+                "gyroscope": {
+                    "x": 3.904303,
+                    "y": 5.574829,
+                    "z": 3.189745
+                },
+                "compass": 7.269495
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000026.png"
+            }
+        }
+    },
+    {
+        "frame": 27,
+        "sensors": {
+            "gnss": {
+                "latitude": 0.638868,
+                "longitude": 7.275806,
+                "altitude": 1.290938
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 8.979389,
+                    "y": 7.997792,
+                    "z": 3.903716
+                },
+                "gyroscope": {
+                    "x": 7.315105,
+                    "y": 8.349324,
+                    "z": 8.254134
+                },
+                "compass": 8.270029
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000027.png"
+            }
+        }
+    },
+    {
+        "frame": 28,
+        "sensors": {
+            "gnss": {
+                "latitude": 0.588822,
+                "longitude": 6.164176,
+                "altitude": 5.971846
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 3.493698,
+                    "y": 3.051727,
+                    "z": 3.459347
+                },
+                "gyroscope": {
+                    "x": 5.661647,
+                    "y": 7.760708,
+                    "z": 3.653006
+                },
+                "compass": 0.480143
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000028.png"
+            }
+        }
+    },
+    {
+        "frame": 29,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.526145,
+                "longitude": 5.87591,
+                "altitude": 7.02776
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 8.094547,
+                    "y": 2.512821,
+                    "z": 1.561568
+                },
+                "gyroscope": {
+                    "x": 6.737066,
+                    "y": 3.078039,
+                    "z": 6.187312
+                },
+                "compass": 3.611094
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000029.png"
+            }
+        }
+    },
+    {
+        "frame": 30,
+        "sensors": {
+            "gnss": {
+                "latitude": 6.986484,
+                "longitude": 1.806286,
+                "altitude": 1.527044
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 5.931568,
+                    "y": 6.716686,
+                    "z": 2.89736
+                },
+                "gyroscope": {
+                    "x": 2.16214,
+                    "y": 8.372179,
+                    "z": 1.604388
+                },
+                "compass": 1.35666
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000030.png"
+            }
+        }
+    },
+    {
+        "frame": 31,
+        "sensors": {
+            "gnss": {
+                "latitude": 8.296919,
+                "longitude": 4.146961,
+                "altitude": 1.081368
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 7.521486,
+                    "y": 0.986926,
+                    "z": 6.090179
+                },
+                "gyroscope": {
+                    "x": 0.038711,
+                    "y": 6.902889,
+                    "z": 1.414444
+                },
+                "compass": 4.855275
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000031.png"
+            }
+        }
+    },
+    {
+        "frame": 32,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.860927,
+                "longitude": 4.575734,
+                "altitude": 2.499146
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 3.692702,
+                    "y": 7.13478,
+                    "z": 0.406717
+                },
+                "gyroscope": {
+                    "x": 6.503016,
+                    "y": 7.39102,
+                    "z": 2.750059
+                },
+                "compass": 5.177802
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000032.png"
+            }
+        }
+    },
+    {
+        "frame": 33,
+        "sensors": {
+            "gnss": {
+                "latitude": 5.281901,
+                "longitude": 0.582435,
+                "altitude": 0.506966
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 2.505116,
+                    "y": 0.727206,
+                    "z": 1.311034
+                },
+                "gyroscope": {
+                    "x": 4.635569,
+                    "y": 0.19047,
+                    "z": 3.856844
+                },
+                "compass": 5.137525
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000033.png"
+            }
+        }
+    },
+    {
+        "frame": 34,
+        "sensors": {
+            "gnss": {
+                "latitude": 2.208197,
+                "longitude": 0.319308,
+                "altitude": 2.198434
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 2.288323,
+                    "y": 0.044887,
+                    "z": 5.4228
+                },
+                "gyroscope": {
+                    "x": 4.712021,
+                    "y": 0.822046,
+                    "z": 3.223038
+                },
+                "compass": 5.823054
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000034.png"
+            }
+        }
+    },
+    {
+        "frame": 35,
+        "sensors": {
+            "gnss": {
+                "latitude": 8.537083,
+                "longitude": 1.035096,
+                "altitude": 8.018943
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 5.302358,
+                    "y": 4.83782,
+                    "z": 7.467687
+                },
+                "gyroscope": {
+                    "x": 5.613659,
+                    "y": 7.860144,
+                    "z": 5.536172
+                },
+                "compass": 1.332799
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000035.png"
+            }
+        }
+    },
+    {
+        "frame": 36,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.406807,
+                "longitude": 5.910405,
+                "altitude": 2.650853
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 2.985077,
+                    "y": 2.449865,
+                    "z": 6.987905
+                },
+                "gyroscope": {
+                    "x": 6.146054,
+                    "y": 2.463129,
+                    "z": 8.823231
+                },
+                "compass": 6.406759
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000036.png"
+            }
+        }
+    },
+    {
+        "frame": 37,
+        "sensors": {
+            "gnss": {
+                "latitude": 6.328606,
+                "longitude": 7.18514,
+                "altitude": 7.965809
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 5.4591,
+                    "y": 0.485516,
+                    "z": 7.473975
+                },
+                "gyroscope": {
+                    "x": 8.327474,
+                    "y": 5.828909,
+                    "z": 7.221736
+                },
+                "compass": 2.171469
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000037.png"
+            }
+        }
+    },
+    {
+        "frame": 38,
+        "sensors": {
+            "gnss": {
+                "latitude": 8.789849,
+                "longitude": 0.280057,
+                "altitude": 4.622938
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 8.717398,
+                    "y": 5.61063,
+                    "z": 2.750909
+                },
+                "gyroscope": {
+                    "x": 6.243707,
+                    "y": 8.969678,
+                    "z": 2.725831
+                },
+                "compass": 5.188316
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000038.png"
+            }
+        }
+    },
+    {
+        "frame": 39,
+        "sensors": {
+            "gnss": {
+                "latitude": 7.537169,
+                "longitude": 1.780941,
+                "altitude": 6.878393
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 1.860276,
+                    "y": 7.287915,
+                    "z": 0.087774
+                },
+                "gyroscope": {
+                    "x": 8.502166,
+                    "y": 7.344723,
+                    "z": 3.515914
+                },
+                "compass": 6.726512
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000039.png"
+            }
+        }
+    },
+    {
+        "frame": 40,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.110803,
+                "longitude": 6.592184,
+                "altitude": 4.057079
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 2.296476,
+                    "y": 3.23623,
+                    "z": 8.498883
+                },
+                "gyroscope": {
+                    "x": 8.33969,
+                    "y": 1.399914,
+                    "z": 4.720663
+                },
+                "compass": 7.769591
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000040.png"
+            }
+        }
+    },
+    {
+        "frame": 41,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.91808,
+                "longitude": 6.955696,
+                "altitude": 6.107048
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 1.318963,
+                    "y": 7.264374,
+                    "z": 8.633977
+                },
+                "gyroscope": {
+                    "x": 3.30264,
+                    "y": 3.293145,
+                    "z": 5.53152
+                },
+                "compass": 3.066629
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000041.png"
+            }
+        }
+    },
+    {
+        "frame": 42,
+        "sensors": {
+            "gnss": {
+                "latitude": 4.96047,
+                "longitude": 4.271671,
+                "altitude": 3.489984
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 2.431955,
+                    "y": 1.277732,
+                    "z": 3.264235
+                },
+                "gyroscope": {
+                    "x": 8.155261,
+                    "y": 0.488794,
+                    "z": 4.487476
+                },
+                "compass": 5.287969
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000042.png"
+            }
+        }
+    },
+    {
+        "frame": 43,
+        "sensors": {
+            "gnss": {
+                "latitude": 8.938347,
+                "longitude": 0.090567,
+                "altitude": 1.60118
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 5.361117,
+                    "y": 2.628557,
+                    "z": 2.383641
+                },
+                "gyroscope": {
+                    "x": 0.524985,
+                    "y": 1.162994,
+                    "z": 2.022398
+                },
+                "compass": 6.017452
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000043.png"
+            }
+        }
+    },
+    {
+        "frame": 44,
+        "sensors": {
+            "gnss": {
+                "latitude": 4.159758,
+                "longitude": 0.491511,
+                "altitude": 2.828658
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 5.266763,
+                    "y": 0.047527,
+                    "z": 1.266594
+                },
+                "gyroscope": {
+                    "x": 6.743532,
+                    "y": 1.919651,
+                    "z": 5.258501
+                },
+                "compass": 3.264303
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000044.png"
+            }
+        }
+    },
+    {
+        "frame": 45,
+        "sensors": {
+            "gnss": {
+                "latitude": 6.856982,
+                "longitude": 1.919755,
+                "altitude": 3.050094
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 8.935533,
+                    "y": 2.671487,
+                    "z": 3.507592
+                },
+                "gyroscope": {
+                    "x": 1.193349,
+                    "y": 6.314088,
+                    "z": 6.234484
+                },
+                "compass": 3.940413
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000045.png"
+            }
+        }
+    },
+    {
+        "frame": 46,
+        "sensors": {
+            "gnss": {
+                "latitude": 2.585148,
+                "longitude": 1.05629,
+                "altitude": 7.298169
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 7.374096,
+                    "y": 3.223775,
+                    "z": 0.659871
+                },
+                "gyroscope": {
+                    "x": 0.8317,
+                    "y": 7.704325,
+                    "z": 7.276072
+                },
+                "compass": 3.749049
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000046.png"
+            }
+        }
+    },
+    {
+        "frame": 47,
+        "sensors": {
+            "gnss": {
+                "latitude": 7.34294,
+                "longitude": 8.588379,
+                "altitude": 7.03386
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 6.721415,
+                    "y": 3.071861,
+                    "z": 2.372056
+                },
+                "gyroscope": {
+                    "x": 7.45594,
+                    "y": 5.794688,
+                    "z": 8.366543
+                },
+                "compass": 0.652927
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000047.png"
+            }
+        }
+    },
+    {
+        "frame": 48,
+        "sensors": {
+            "gnss": {
+                "latitude": 4.312766,
+                "longitude": 1.765218,
+                "altitude": 1.208612
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 7.699932,
+                    "y": 8.854054,
+                    "z": 8.816213
+                },
+                "gyroscope": {
+                    "x": 6.886069,
+                    "y": 3.733774,
+                    "z": 3.305402
+                },
+                "compass": 2.263693
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000048.png"
+            }
+        }
+    },
+    {
+        "frame": 49,
+        "sensors": {
+            "gnss": {
+                "latitude": 2.809246,
+                "longitude": 6.02658,
+                "altitude": 8.046935
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 6.075678,
+                    "y": 4.912641,
+                    "z": 4.154809
+                },
+                "gyroscope": {
+                    "x": 5.467002,
+                    "y": 1.270558,
+                    "z": 2.893201
+                },
+                "compass": 6.798685
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000049.png"
+            }
+        }
+    },
+    {
+        "frame": 50,
+        "sensors": {
+            "gnss": {
+                "latitude": 6.787369,
+                "longitude": 4.101657,
+                "altitude": 3.91656
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 7.300966,
+                    "y": 1.612597,
+                    "z": 0.676582
+                },
+                "gyroscope": {
+                    "x": 6.586691,
+                    "y": 8.139717,
+                    "z": 6.068563
+                },
+                "compass": 7.176131
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000050.png"
+            }
+        }
+    },
+    {
+        "frame": 51,
+        "sensors": {
+            "gnss": {
+                "latitude": 6.195395,
+                "longitude": 8.377445,
+                "altitude": 2.23634
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 6.876217,
+                    "y": 7.896237,
+                    "z": 5.229766
+                },
+                "gyroscope": {
+                    "x": 8.358582,
+                    "y": 3.37094,
+                    "z": 1.087618
+                },
+                "compass": 7.798696
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000051.png"
+            }
+        }
+    },
+    {
+        "frame": 52,
+        "sensors": {
+            "gnss": {
+                "latitude": 0.792546,
+                "longitude": 3.954982,
+                "altitude": 4.714403
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 5.404159,
+                    "y": 8.68257,
+                    "z": 1.973888
+                },
+                "gyroscope": {
+                    "x": 0.099058,
+                    "y": 1.586331,
+                    "z": 8.408981
+                },
+                "compass": 0.524501
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000052.png"
+            }
+        }
+    },
+    {
+        "frame": 53,
+        "sensors": {
+            "gnss": {
+                "latitude": 7.474359,
+                "longitude": 4.768226,
+                "altitude": 6.951296
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 5.497554,
+                    "y": 7.229879,
+                    "z": 1.347252
+                },
+                "gyroscope": {
+                    "x": 2.321892,
+                    "y": 4.844587,
+                    "z": 7.27455
+                },
+                "compass": 0.386186
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000053.png"
+            }
+        }
+    },
+    {
+        "frame": 54,
+        "sensors": {
+            "gnss": {
+                "latitude": 6.772776,
+                "longitude": 2.965835,
+                "altitude": 4.493974
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 6.803574,
+                    "y": 7.226883,
+                    "z": 6.761034
+                },
+                "gyroscope": {
+                    "x": 3.6045,
+                    "y": 0.268186,
+                    "z": 3.796923
+                },
+                "compass": 6.324161
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000054.png"
+            }
+        }
+    },
+    {
+        "frame": 55,
+        "sensors": {
+            "gnss": {
+                "latitude": 8.143055,
+                "longitude": 8.110373,
+                "altitude": 8.662896
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 8.305344,
+                    "y": 1.288993,
+                    "z": 8.241626
+                },
+                "gyroscope": {
+                    "x": 6.704697,
+                    "y": 8.162617,
+                    "z": 5.21011
+                },
+                "compass": 0.855375
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000055.png"
+            }
+        }
+    },
+    {
+        "frame": 56,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.379577,
+                "longitude": 6.30256,
+                "altitude": 2.764093
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 1.300029,
+                    "y": 4.34439,
+                    "z": 7.461267
+                },
+                "gyroscope": {
+                    "x": 5.662169,
+                    "y": 7.765082,
+                    "z": 7.449835
+                },
+                "compass": 5.633838
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000056.png"
+            }
+        }
+    },
+    {
+        "frame": 57,
+        "sensors": {
+            "gnss": {
+                "latitude": 4.147194,
+                "longitude": 6.370112,
+                "altitude": 7.712529
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 7.950211,
+                    "y": 8.940145,
+                    "z": 3.814688
+                },
+                "gyroscope": {
+                    "x": 1.541305,
+                    "y": 0.07969,
+                    "z": 3.850561
+                },
+                "compass": 3.929047
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000057.png"
+            }
+        }
+    },
+    {
+        "frame": 58,
+        "sensors": {
+            "gnss": {
+                "latitude": 4.277462,
+                "longitude": 6.509299,
+                "altitude": 5.506379
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 4.317512,
+                    "y": 3.054649,
+                    "z": 2.436973
+                },
+                "gyroscope": {
+                    "x": 1.475596,
+                    "y": 3.907925,
+                    "z": 2.136474
+                },
+                "compass": 1.877705
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000058.png"
+            }
+        }
+    },
+    {
+        "frame": 59,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.230942,
+                "longitude": 6.858296,
+                "altitude": 8.580432
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 5.403365,
+                    "y": 1.353927,
+                    "z": 7.427908
+                },
+                "gyroscope": {
+                    "x": 5.525638,
+                    "y": 5.008378,
+                    "z": 8.669577
+                },
+                "compass": 3.215115
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000059.png"
+            }
+        }
+    },
+    {
+        "frame": 60,
+        "sensors": {
+            "gnss": {
+                "latitude": 6.739007,
+                "longitude": 7.373355,
+                "altitude": 4.618035
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 5.83778,
+                    "y": 0.98548,
+                    "z": 1.823376
+                },
+                "gyroscope": {
+                    "x": 8.925398,
+                    "y": 6.830931,
+                    "z": 1.810251
+                },
+                "compass": 7.191204
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000060.png"
+            }
+        }
+    },
+    {
+        "frame": 61,
+        "sensors": {
+            "gnss": {
+                "latitude": 8.893886,
+                "longitude": 4.90978,
+                "altitude": 0.513916
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 2.079815,
+                    "y": 6.198628,
+                    "z": 8.930066
+                },
+                "gyroscope": {
+                    "x": 3.788536,
+                    "y": 1.238345,
+                    "z": 6.824398
+                },
+                "compass": 6.664141
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000061.png"
+            }
+        }
+    },
+    {
+        "frame": 62,
+        "sensors": {
+            "gnss": {
+                "latitude": 6.760236,
+                "longitude": 2.278327,
+                "altitude": 3.524435
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 0.384297,
+                    "y": 5.642215,
+                    "z": 2.455285
+                },
+                "gyroscope": {
+                    "x": 4.008561,
+                    "y": 3.296461,
+                    "z": 5.303063
+                },
+                "compass": 2.763864
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000062.png"
+            }
+        }
+    },
+    {
+        "frame": 63,
+        "sensors": {
+            "gnss": {
+                "latitude": 7.683543,
+                "longitude": 0.938085,
+                "altitude": 2.945133
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 3.348148,
+                    "y": 0.382258,
+                    "z": 7.114488
+                },
+                "gyroscope": {
+                    "x": 3.478244,
+                    "y": 0.076956,
+                    "z": 7.723744
+                },
+                "compass": 3.871651
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000063.png"
+            }
+        }
+    },
+    {
+        "frame": 64,
+        "sensors": {
+            "gnss": {
+                "latitude": 4.832878,
+                "longitude": 6.433497,
+                "altitude": 1.417689
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 5.170043,
+                    "y": 2.294698,
+                    "z": 0.103482
+                },
+                "gyroscope": {
+                    "x": 3.938785,
+                    "y": 8.84275,
+                    "z": 4.237869
+                },
+                "compass": 4.500191
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000064.png"
+            }
+        }
+    },
+    {
+        "frame": 65,
+        "sensors": {
+            "gnss": {
+                "latitude": 8.626582,
+                "longitude": 6.274016,
+                "altitude": 8.058208
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 0.587146,
+                    "y": 7.184862,
+                    "z": 8.163253
+                },
+                "gyroscope": {
+                    "x": 0.955273,
+                    "y": 3.138684,
+                    "z": 8.308668
+                },
+                "compass": 1.136266
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000065.png"
+            }
+        }
+    },
+    {
+        "frame": 66,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.393958,
+                "longitude": 5.789413,
+                "altitude": 6.999165
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 7.312891,
+                    "y": 3.698275,
+                    "z": 1.50459
+                },
+                "gyroscope": {
+                    "x": 6.577426,
+                    "y": 1.416632,
+                    "z": 4.234395
+                },
+                "compass": 1.24698
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000066.png"
+            }
+        }
+    },
+    {
+        "frame": 67,
+        "sensors": {
+            "gnss": {
+                "latitude": 5.049609,
+                "longitude": 8.162821,
+                "altitude": 4.897641
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 0.575016,
+                    "y": 8.060799,
+                    "z": 2.814822
+                },
+                "gyroscope": {
+                    "x": 4.557337,
+                    "y": 3.815006,
+                    "z": 5.857778
+                },
+                "compass": 1.735951
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000067.png"
+            }
+        }
+    },
+    {
+        "frame": 68,
+        "sensors": {
+            "gnss": {
+                "latitude": 4.896958,
+                "longitude": 2.738451,
+                "altitude": 7.287685
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 3.627571,
+                    "y": 2.743146,
+                    "z": 0.221915
+                },
+                "gyroscope": {
+                    "x": 8.355849,
+                    "y": 2.069337,
+                    "z": 1.083592
+                },
+                "compass": 7.045119
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000068.png"
+            }
+        }
+    },
+    {
+        "frame": 69,
+        "sensors": {
+            "gnss": {
+                "latitude": 6.206881,
+                "longitude": 3.268813,
+                "altitude": 0.676539
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 2.070571,
+                    "y": 6.714381,
+                    "z": 3.071064
+                },
+                "gyroscope": {
+                    "x": 8.971763,
+                    "y": 2.313605,
+                    "z": 1.577419
+                },
+                "compass": 1.975836
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000069.png"
+            }
+        }
+    },
+    {
+        "frame": 70,
+        "sensors": {
+            "gnss": {
+                "latitude": 5.741773,
+                "longitude": 6.622148,
+                "altitude": 2.778705
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 0.178686,
+                    "y": 6.537974,
+                    "z": 8.290424
+                },
+                "gyroscope": {
+                    "x": 4.878647,
+                    "y": 2.805833,
+                    "z": 1.7583
+                },
+                "compass": 6.049063
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000070.png"
+            }
+        }
+    },
+    {
+        "frame": 71,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.500976,
+                "longitude": 2.46115,
+                "altitude": 5.26206
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 8.796631,
+                    "y": 5.761297,
+                    "z": 3.539343
+                },
+                "gyroscope": {
+                    "x": 7.652248,
+                    "y": 7.088304,
+                    "z": 8.487977
+                },
+                "compass": 5.738277
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000071.png"
+            }
+        }
+    },
+    {
+        "frame": 72,
+        "sensors": {
+            "gnss": {
+                "latitude": 6.136375,
+                "longitude": 2.58584,
+                "altitude": 2.134874
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 8.301683,
+                    "y": 0.486995,
+                    "z": 1.035678
+                },
+                "gyroscope": {
+                    "x": 1.853865,
+                    "y": 1.785,
+                    "z": 7.683831
+                },
+                "compass": 8.97538
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000072.png"
+            }
+        }
+    },
+    {
+        "frame": 73,
+        "sensors": {
+            "gnss": {
+                "latitude": 8.002104,
+                "longitude": 8.004644,
+                "altitude": 6.327053
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 1.159575,
+                    "y": 1.11506,
+                    "z": 3.965648
+                },
+                "gyroscope": {
+                    "x": 3.115849,
+                    "y": 6.405652,
+                    "z": 8.813803
+                },
+                "compass": 2.852567
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000073.png"
+            }
+        }
+    },
+    {
+        "frame": 74,
+        "sensors": {
+            "gnss": {
+                "latitude": 2.630061,
+                "longitude": 3.778024,
+                "altitude": 1.632881
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 7.616038,
+                    "y": 7.831615,
+                    "z": 7.985928
+                },
+                "gyroscope": {
+                    "x": 4.270333,
+                    "y": 7.903631,
+                    "z": 6.532158
+                },
+                "compass": 3.394985
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000074.png"
+            }
+        }
+    },
+    {
+        "frame": 75,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.007489,
+                "longitude": 2.485167,
+                "altitude": 8.568002
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 6.055158,
+                    "y": 1.844242,
+                    "z": 8.685968
+                },
+                "gyroscope": {
+                    "x": 7.863119,
+                    "y": 1.34081,
+                    "z": 3.87024
+                },
+                "compass": 7.520338
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000075.png"
+            }
+        }
+    },
+    {
+        "frame": 76,
+        "sensors": {
+            "gnss": {
+                "latitude": 5.297836,
+                "longitude": 8.961503,
+                "altitude": 0.71052
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 4.252944,
+                    "y": 4.484038,
+                    "z": 4.656757
+                },
+                "gyroscope": {
+                    "x": 2.60053,
+                    "y": 7.876219,
+                    "z": 2.966675
+                },
+                "compass": 4.832787
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000076.png"
+            }
+        }
+    },
+    {
+        "frame": 77,
+        "sensors": {
+            "gnss": {
+                "latitude": 6.623165,
+                "longitude": 6.484465,
+                "altitude": 5.522466
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 5.36932,
+                    "y": 8.834966,
+                    "z": 2.457721
+                },
+                "gyroscope": {
+                    "x": 8.248884,
+                    "y": 0.331353,
+                    "z": 2.704767
+                },
+                "compass": 5.513942
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000077.png"
+            }
+        }
+    },
+    {
+        "frame": 78,
+        "sensors": {
+            "gnss": {
+                "latitude": 0.023461,
+                "longitude": 2.551507,
+                "altitude": 4.533663
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 1.30673,
+                    "y": 6.062715,
+                    "z": 7.04362
+                },
+                "gyroscope": {
+                    "x": 2.021174,
+                    "y": 0.706746,
+                    "z": 5.674284
+                },
+                "compass": 2.447651
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000078.png"
+            }
+        }
+    },
+    {
+        "frame": 79,
+        "sensors": {
+            "gnss": {
+                "latitude": 7.860103,
+                "longitude": 5.260713,
+                "altitude": 6.345239
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 6.725115,
+                    "y": 5.729055,
+                    "z": 7.59276
+                },
+                "gyroscope": {
+                    "x": 2.505299,
+                    "y": 7.441293,
+                    "z": 8.872923
+                },
+                "compass": 8.146501
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000079.png"
+            }
+        }
+    },
+    {
+        "frame": 80,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.393548,
+                "longitude": 2.56337,
+                "altitude": 6.130439
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 8.153754,
+                    "y": 2.047083,
+                    "z": 4.168631
+                },
+                "gyroscope": {
+                    "x": 1.665793,
+                    "y": 3.138598,
+                    "z": 4.836391
+                },
+                "compass": 1.379453
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000080.png"
+            }
+        }
+    },
+    {
+        "frame": 81,
+        "sensors": {
+            "gnss": {
+                "latitude": 6.025983,
+                "longitude": 4.023917,
+                "altitude": 4.501069
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 0.356433,
+                    "y": 1.545412,
+                    "z": 5.519693
+                },
+                "gyroscope": {
+                    "x": 4.256392,
+                    "y": 6.654322,
+                    "z": 4.368827
+                },
+                "compass": 6.559708
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000081.png"
+            }
+        }
+    },
+    {
+        "frame": 82,
+        "sensors": {
+            "gnss": {
+                "latitude": 7.284752,
+                "longitude": 2.169294,
+                "altitude": 0.772596
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 7.600327,
+                    "y": 3.40687,
+                    "z": 2.386896
+                },
+                "gyroscope": {
+                    "x": 8.674858,
+                    "y": 3.221143,
+                    "z": 5.210393
+                },
+                "compass": 1.315545
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000082.png"
+            }
+        }
+    },
+    {
+        "frame": 83,
+        "sensors": {
+            "gnss": {
+                "latitude": 7.348028,
+                "longitude": 8.895067,
+                "altitude": 0.28118
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 4.444979,
+                    "y": 7.950343,
+                    "z": 5.146765
+                },
+                "gyroscope": {
+                    "x": 6.927958,
+                    "y": 0.307859,
+                    "z": 1.571785
+                },
+                "compass": 0.00096
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000083.png"
+            }
+        }
+    },
+    {
+        "frame": 84,
+        "sensors": {
+            "gnss": {
+                "latitude": 0.901872,
+                "longitude": 1.11302,
+                "altitude": 1.47986
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 0.889468,
+                    "y": 7.91692,
+                    "z": 2.507697
+                },
+                "gyroscope": {
+                    "x": 7.874467,
+                    "y": 3.612197,
+                    "z": 2.799057
+                },
+                "compass": 0.398416
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000084.png"
+            }
+        }
+    },
+    {
+        "frame": 85,
+        "sensors": {
+            "gnss": {
+                "latitude": 8.730122,
+                "longitude": 0.152184,
+                "altitude": 8.391807
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 8.263494,
+                    "y": 5.744977,
+                    "z": 8.211804
+                },
+                "gyroscope": {
+                    "x": 1.453253,
+                    "y": 7.341802,
+                    "z": 7.549965
+                },
+                "compass": 8.490645
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000085.png"
+            }
+        }
+    },
+    {
+        "frame": 86,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.749443,
+                "longitude": 0.735159,
+                "altitude": 8.301299
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 5.728793,
+                    "y": 3.562421,
+                    "z": 1.623757
+                },
+                "gyroscope": {
+                    "x": 7.240696,
+                    "y": 7.971712,
+                    "z": 2.686513
+                },
+                "compass": 1.482639
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000086.png"
+            }
+        }
+    },
+    {
+        "frame": 87,
+        "sensors": {
+            "gnss": {
+                "latitude": 0.363938,
+                "longitude": 4.307728,
+                "altitude": 0.386549
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 8.138559,
+                    "y": 2.135812,
+                    "z": 2.605235
+                },
+                "gyroscope": {
+                    "x": 7.401017,
+                    "y": 2.197635,
+                    "z": 8.186231
+                },
+                "compass": 5.563976
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000087.png"
+            }
+        }
+    },
+    {
+        "frame": 88,
+        "sensors": {
+            "gnss": {
+                "latitude": 6.093969,
+                "longitude": 3.756645,
+                "altitude": 4.821873
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 8.377378,
+                    "y": 7.712293,
+                    "z": 7.851299
+                },
+                "gyroscope": {
+                    "x": 1.907095,
+                    "y": 1.194821,
+                    "z": 0.283663
+                },
+                "compass": 4.043403
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000088.png"
+            }
+        }
+    },
+    {
+        "frame": 89,
+        "sensors": {
+            "gnss": {
+                "latitude": 0.869779,
+                "longitude": 8.597645,
+                "altitude": 2.177375
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 7.750075,
+                    "y": 5.907386,
+                    "z": 8.384953
+                },
+                "gyroscope": {
+                    "x": 3.445838,
+                    "y": 4.772723,
+                    "z": 6.825317
+                },
+                "compass": 1.57514
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000089.png"
+            }
+        }
+    },
+    {
+        "frame": 90,
+        "sensors": {
+            "gnss": {
+                "latitude": 4.668907,
+                "longitude": 6.313981,
+                "altitude": 7.617987
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 7.698859,
+                    "y": 0.163219,
+                    "z": 3.982617
+                },
+                "gyroscope": {
+                    "x": 0.867308,
+                    "y": 1.467814,
+                    "z": 3.476227
+                },
+                "compass": 5.37732
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000090.png"
+            }
+        }
+    },
+    {
+        "frame": 91,
+        "sensors": {
+            "gnss": {
+                "latitude": 8.30058,
+                "longitude": 6.11627,
+                "altitude": 8.72656
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 1.045091,
+                    "y": 7.682756,
+                    "z": 2.843856
+                },
+                "gyroscope": {
+                    "x": 4.004021,
+                    "y": 1.080746,
+                    "z": 6.969605
+                },
+                "compass": 7.00501
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000091.png"
+            }
+        }
+    },
+    {
+        "frame": 92,
+        "sensors": {
+            "gnss": {
+                "latitude": 7.143098,
+                "longitude": 7.881605,
+                "altitude": 8.503959
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 7.7857,
+                    "y": 5.937688,
+                    "z": 7.831695
+                },
+                "gyroscope": {
+                    "x": 3.82435,
+                    "y": 7.271997,
+                    "z": 4.84259
+                },
+                "compass": 0.120216
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000092.png"
+            }
+        }
+    },
+    {
+        "frame": 93,
+        "sensors": {
+            "gnss": {
+                "latitude": 4.363484,
+                "longitude": 2.027092,
+                "altitude": 0.200298
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 7.165373,
+                    "y": 2.209963,
+                    "z": 4.769199
+                },
+                "gyroscope": {
+                    "x": 5.437824,
+                    "y": 0.672114,
+                    "z": 1.128139
+                },
+                "compass": 1.097087
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000093.png"
+            }
+        }
+    },
+    {
+        "frame": 94,
+        "sensors": {
+            "gnss": {
+                "latitude": 2.264964,
+                "longitude": 0.570937,
+                "altitude": 1.418496
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 0.133627,
+                    "y": 2.068772,
+                    "z": 1.854993
+                },
+                "gyroscope": {
+                    "x": 8.070428,
+                    "y": 1.042942,
+                    "z": 8.403512
+                },
+                "compass": 4.289751
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000094.png"
+            }
+        }
+    },
+    {
+        "frame": 95,
+        "sensors": {
+            "gnss": {
+                "latitude": 0.555327,
+                "longitude": 8.89735,
+                "altitude": 4.477882
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 3.985297,
+                    "y": 2.848369,
+                    "z": 7.367925
+                },
+                "gyroscope": {
+                    "x": 6.039222,
+                    "y": 3.971273,
+                    "z": 2.217667
+                },
+                "compass": 8.616218
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000095.png"
+            }
+        }
+    },
+    {
+        "frame": 96,
+        "sensors": {
+            "gnss": {
+                "latitude": 6.875388,
+                "longitude": 3.602102,
+                "altitude": 7.68069
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 7.71617,
+                    "y": 7.37355,
+                    "z": 2.157979
+                },
+                "gyroscope": {
+                    "x": 5.234467,
+                    "y": 8.534114,
+                    "z": 8.636992
+                },
+                "compass": 8.32287
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000096.png"
+            }
+        }
+    },
+    {
+        "frame": 97,
+        "sensors": {
+            "gnss": {
+                "latitude": 2.667999,
+                "longitude": 8.75018,
+                "altitude": 3.175039
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 7.930164,
+                    "y": 8.200979,
+                    "z": 3.693985
+                },
+                "gyroscope": {
+                    "x": 8.527836,
+                    "y": 5.650211,
+                    "z": 7.824375
+                },
+                "compass": 3.785263
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000097.png"
+            }
+        }
+    },
+    {
+        "frame": 98,
+        "sensors": {
+            "gnss": {
+                "latitude": 2.78411,
+                "longitude": 0.409187,
+                "altitude": 5.475016
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 8.422255,
+                    "y": 7.168421,
+                    "z": 7.646403
+                },
+                "gyroscope": {
+                    "x": 1.621232,
+                    "y": 4.351629,
+                    "z": 7.712904
+                },
+                "compass": 6.860069
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000098.png"
+            }
+        }
+    },
+    {
+        "frame": 99,
+        "sensors": {
+            "gnss": {
+                "latitude": 5.200125,
+                "longitude": 5.601551,
+                "altitude": 5.695536
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 4.320588,
+                    "y": 4.518143,
+                    "z": 7.273476
+                },
+                "gyroscope": {
+                    "x": 5.221933,
+                    "y": 1.910636,
+                    "z": 2.643574
+                },
+                "compass": 2.11975
+            },
+            "CameraRGB": {
+                "x": 1920,
+                "y": 1080,
+                "fov": 90,
+                "frameURI": "C:/Vehicle/rgb_00000099.png"
+            }
+        }
+    }
+]

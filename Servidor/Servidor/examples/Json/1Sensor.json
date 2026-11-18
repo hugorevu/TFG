@@ -1,0 +1,1002 @@
+[
+    {
+        "frame": 0,
+        "sensors": {
+            "gnss": {
+                "latitude": 2.911292,
+                "longitude": 8.683718,
+                "altitude": 2.925644
+            }
+        }
+    },
+    {
+        "frame": 1,
+        "sensors": {
+            "gnss": {
+                "latitude": 5.779243,
+                "longitude": 2.247726,
+                "altitude": 5.908502
+            }
+        }
+    },
+    {
+        "frame": 2,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.6258,
+                "longitude": 4.073692,
+                "altitude": 0.610612
+            }
+        }
+    },
+    {
+        "frame": 3,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.438263,
+                "longitude": 3.905429,
+                "altitude": 1.00334
+            }
+        }
+    },
+    {
+        "frame": 4,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.404956,
+                "longitude": 6.803795,
+                "altitude": 3.763924
+            }
+        }
+    },
+    {
+        "frame": 5,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.056556,
+                "longitude": 5.39337,
+                "altitude": 1.56681
+            }
+        }
+    },
+    {
+        "frame": 6,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.156797,
+                "longitude": 3.269263,
+                "altitude": 5.324105
+            }
+        }
+    },
+    {
+        "frame": 7,
+        "sensors": {
+            "gnss": {
+                "latitude": 4.381635,
+                "longitude": 5.19593,
+                "altitude": 7.725268
+            }
+        }
+    },
+    {
+        "frame": 8,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.258262,
+                "longitude": 5.299122,
+                "altitude": 0.218439
+            }
+        }
+    },
+    {
+        "frame": 9,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.584487,
+                "longitude": 5.60325,
+                "altitude": 3.156284
+            }
+        }
+    },
+    {
+        "frame": 10,
+        "sensors": {
+            "gnss": {
+                "latitude": 7.355258,
+                "longitude": 4.576104,
+                "altitude": 1.13768
+            }
+        }
+    },
+    {
+        "frame": 11,
+        "sensors": {
+            "gnss": {
+                "latitude": 2.372703,
+                "longitude": 0.816994,
+                "altitude": 4.261958
+            }
+        }
+    },
+    {
+        "frame": 12,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.625386,
+                "longitude": 0.042771,
+                "altitude": 2.925982
+            }
+        }
+    },
+    {
+        "frame": 13,
+        "sensors": {
+            "gnss": {
+                "latitude": 8.623287,
+                "longitude": 1.767849,
+                "altitude": 8.193334
+            }
+        }
+    },
+    {
+        "frame": 14,
+        "sensors": {
+            "gnss": {
+                "latitude": 4.246888,
+                "longitude": 0.618397,
+                "altitude": 2.996775
+            }
+        }
+    },
+    {
+        "frame": 15,
+        "sensors": {
+            "gnss": {
+                "latitude": 2.467402,
+                "longitude": 7.706221,
+                "altitude": 2.527707
+            }
+        }
+    },
+    {
+        "frame": 16,
+        "sensors": {
+            "gnss": {
+                "latitude": 4.806273,
+                "longitude": 8.902235,
+                "altitude": 4.680065
+            }
+        }
+    },
+    {
+        "frame": 17,
+        "sensors": {
+            "gnss": {
+                "latitude": 6.212091,
+                "longitude": 8.260573,
+                "altitude": 4.669497
+            }
+        }
+    },
+    {
+        "frame": 18,
+        "sensors": {
+            "gnss": {
+                "latitude": 4.021445,
+                "longitude": 2.842577,
+                "altitude": 1.820229
+            }
+        }
+    },
+    {
+        "frame": 19,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.608687,
+                "longitude": 1.54567,
+                "altitude": 7.765331
+            }
+        }
+    },
+    {
+        "frame": 20,
+        "sensors": {
+            "gnss": {
+                "latitude": 8.24543,
+                "longitude": 1.776928,
+                "altitude": 6.16302
+            }
+        }
+    },
+    {
+        "frame": 21,
+        "sensors": {
+            "gnss": {
+                "latitude": 0.49596,
+                "longitude": 4.289017,
+                "altitude": 2.167012
+            }
+        }
+    },
+    {
+        "frame": 22,
+        "sensors": {
+            "gnss": {
+                "latitude": 5.844261,
+                "longitude": 4.005645,
+                "altitude": 2.81907
+            }
+        }
+    },
+    {
+        "frame": 23,
+        "sensors": {
+            "gnss": {
+                "latitude": 8.491694,
+                "longitude": 6.416358,
+                "altitude": 2.396659
+            }
+        }
+    },
+    {
+        "frame": 24,
+        "sensors": {
+            "gnss": {
+                "latitude": 0.454901,
+                "longitude": 1.426431,
+                "altitude": 1.226218
+            }
+        }
+    },
+    {
+        "frame": 25,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.626004,
+                "longitude": 3.926646,
+                "altitude": 4.867368
+            }
+        }
+    },
+    {
+        "frame": 26,
+        "sensors": {
+            "gnss": {
+                "latitude": 0.34819,
+                "longitude": 2.952893,
+                "altitude": 3.93993
+            }
+        }
+    },
+    {
+        "frame": 27,
+        "sensors": {
+            "gnss": {
+                "latitude": 2.644157,
+                "longitude": 5.829905,
+                "altitude": 6.909213
+            }
+        }
+    },
+    {
+        "frame": 28,
+        "sensors": {
+            "gnss": {
+                "latitude": 8.633191,
+                "longitude": 5.085094,
+                "altitude": 1.268088
+            }
+        }
+    },
+    {
+        "frame": 29,
+        "sensors": {
+            "gnss": {
+                "latitude": 6.364457,
+                "longitude": 3.511229,
+                "altitude": 4.330787
+            }
+        }
+    },
+    {
+        "frame": 30,
+        "sensors": {
+            "gnss": {
+                "latitude": 7.418755,
+                "longitude": 2.281379,
+                "altitude": 2.794044
+            }
+        }
+    },
+    {
+        "frame": 31,
+        "sensors": {
+            "gnss": {
+                "latitude": 4.110914,
+                "longitude": 3.580717,
+                "altitude": 4.354833
+            }
+        }
+    },
+    {
+        "frame": 32,
+        "sensors": {
+            "gnss": {
+                "latitude": 8.329529,
+                "longitude": 2.846287,
+                "altitude": 3.962475
+            }
+        }
+    },
+    {
+        "frame": 33,
+        "sensors": {
+            "gnss": {
+                "latitude": 4.866611,
+                "longitude": 6.765399,
+                "altitude": 5.232046
+            }
+        }
+    },
+    {
+        "frame": 34,
+        "sensors": {
+            "gnss": {
+                "latitude": 2.440178,
+                "longitude": 0.82167,
+                "altitude": 1.284841
+            }
+        }
+    },
+    {
+        "frame": 35,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.285179,
+                "longitude": 8.679138,
+                "altitude": 6.785907
+            }
+        }
+    },
+    {
+        "frame": 36,
+        "sensors": {
+            "gnss": {
+                "latitude": 7.259295,
+                "longitude": 3.371282,
+                "altitude": 4.293868
+            }
+        }
+    },
+    {
+        "frame": 37,
+        "sensors": {
+            "gnss": {
+                "latitude": 7.009992,
+                "longitude": 1.043074,
+                "altitude": 2.664095
+            }
+        }
+    },
+    {
+        "frame": 38,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.692354,
+                "longitude": 7.430769,
+                "altitude": 8.874604
+            }
+        }
+    },
+    {
+        "frame": 39,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.734396,
+                "longitude": 1.594374,
+                "altitude": 1.443498
+            }
+        }
+    },
+    {
+        "frame": 40,
+        "sensors": {
+            "gnss": {
+                "latitude": 8.654713,
+                "longitude": 2.867134,
+                "altitude": 4.677553
+            }
+        }
+    },
+    {
+        "frame": 41,
+        "sensors": {
+            "gnss": {
+                "latitude": 6.909492,
+                "longitude": 5.251468,
+                "altitude": 2.302751
+            }
+        }
+    },
+    {
+        "frame": 42,
+        "sensors": {
+            "gnss": {
+                "latitude": 8.985556,
+                "longitude": 3.556377,
+                "altitude": 4.371069
+            }
+        }
+    },
+    {
+        "frame": 43,
+        "sensors": {
+            "gnss": {
+                "latitude": 6.802197,
+                "longitude": 3.263126,
+                "altitude": 4.082137
+            }
+        }
+    },
+    {
+        "frame": 44,
+        "sensors": {
+            "gnss": {
+                "latitude": 2.512805,
+                "longitude": 6.684578,
+                "altitude": 4.517051
+            }
+        }
+    },
+    {
+        "frame": 45,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.385558,
+                "longitude": 8.525978,
+                "altitude": 0.33843
+            }
+        }
+    },
+    {
+        "frame": 46,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.031348,
+                "longitude": 5.062003,
+                "altitude": 4.793238
+            }
+        }
+    },
+    {
+        "frame": 47,
+        "sensors": {
+            "gnss": {
+                "latitude": 0.696503,
+                "longitude": 8.470899,
+                "altitude": 7.560649
+            }
+        }
+    },
+    {
+        "frame": 48,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.082036,
+                "longitude": 2.173249,
+                "altitude": 7.465347
+            }
+        }
+    },
+    {
+        "frame": 49,
+        "sensors": {
+            "gnss": {
+                "latitude": 0.734289,
+                "longitude": 1.471192,
+                "altitude": 8.501044
+            }
+        }
+    },
+    {
+        "frame": 50,
+        "sensors": {
+            "gnss": {
+                "latitude": 6.889145,
+                "longitude": 6.997259,
+                "altitude": 8.457726
+            }
+        }
+    },
+    {
+        "frame": 51,
+        "sensors": {
+            "gnss": {
+                "latitude": 8.039493,
+                "longitude": 6.717796,
+                "altitude": 6.909861
+            }
+        }
+    },
+    {
+        "frame": 52,
+        "sensors": {
+            "gnss": {
+                "latitude": 2.85552,
+                "longitude": 2.745434,
+                "altitude": 8.836328
+            }
+        }
+    },
+    {
+        "frame": 53,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.170302,
+                "longitude": 4.138042,
+                "altitude": 0.654807
+            }
+        }
+    },
+    {
+        "frame": 54,
+        "sensors": {
+            "gnss": {
+                "latitude": 2.135161,
+                "longitude": 2.739412,
+                "altitude": 3.301617
+            }
+        }
+    },
+    {
+        "frame": 55,
+        "sensors": {
+            "gnss": {
+                "latitude": 8.113805,
+                "longitude": 7.093847,
+                "altitude": 6.158031
+            }
+        }
+    },
+    {
+        "frame": 56,
+        "sensors": {
+            "gnss": {
+                "latitude": 7.224624,
+                "longitude": 4.003917,
+                "altitude": 1.8519
+            }
+        }
+    },
+    {
+        "frame": 57,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.28061,
+                "longitude": 3.751819,
+                "altitude": 2.437658
+            }
+        }
+    },
+    {
+        "frame": 58,
+        "sensors": {
+            "gnss": {
+                "latitude": 8.999074,
+                "longitude": 3.969175,
+                "altitude": 0.565238
+            }
+        }
+    },
+    {
+        "frame": 59,
+        "sensors": {
+            "gnss": {
+                "latitude": 2.759047,
+                "longitude": 2.539092,
+                "altitude": 1.255523
+            }
+        }
+    },
+    {
+        "frame": 60,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.277706,
+                "longitude": 0.776332,
+                "altitude": 5.821766
+            }
+        }
+    },
+    {
+        "frame": 61,
+        "sensors": {
+            "gnss": {
+                "latitude": 0.4599,
+                "longitude": 5.894655,
+                "altitude": 6.299281
+            }
+        }
+    },
+    {
+        "frame": 62,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.611609,
+                "longitude": 8.025705,
+                "altitude": 2.03927
+            }
+        }
+    },
+    {
+        "frame": 63,
+        "sensors": {
+            "gnss": {
+                "latitude": 5.542549,
+                "longitude": 5.942045,
+                "altitude": 8.580137
+            }
+        }
+    },
+    {
+        "frame": 64,
+        "sensors": {
+            "gnss": {
+                "latitude": 2.481057,
+                "longitude": 5.102542,
+                "altitude": 1.52175
+            }
+        }
+    },
+    {
+        "frame": 65,
+        "sensors": {
+            "gnss": {
+                "latitude": 8.44348,
+                "longitude": 3.909426,
+                "altitude": 2.136274
+            }
+        }
+    },
+    {
+        "frame": 66,
+        "sensors": {
+            "gnss": {
+                "latitude": 4.304734,
+                "longitude": 6.172375,
+                "altitude": 0.869472
+            }
+        }
+    },
+    {
+        "frame": 67,
+        "sensors": {
+            "gnss": {
+                "latitude": 7.269466,
+                "longitude": 1.941856,
+                "altitude": 0.600856
+            }
+        }
+    },
+    {
+        "frame": 68,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.126855,
+                "longitude": 2.113062,
+                "altitude": 7.250117
+            }
+        }
+    },
+    {
+        "frame": 69,
+        "sensors": {
+            "gnss": {
+                "latitude": 0.277131,
+                "longitude": 5.168116,
+                "altitude": 0.245073
+            }
+        }
+    },
+    {
+        "frame": 70,
+        "sensors": {
+            "gnss": {
+                "latitude": 6.931104,
+                "longitude": 2.208383,
+                "altitude": 6.064703
+            }
+        }
+    },
+    {
+        "frame": 71,
+        "sensors": {
+            "gnss": {
+                "latitude": 5.10409,
+                "longitude": 0.575976,
+                "altitude": 1.28255
+            }
+        }
+    },
+    {
+        "frame": 72,
+        "sensors": {
+            "gnss": {
+                "latitude": 8.065957,
+                "longitude": 0.175124,
+                "altitude": 4.18104
+            }
+        }
+    },
+    {
+        "frame": 73,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.477025,
+                "longitude": 7.087978,
+                "altitude": 6.016216
+            }
+        }
+    },
+    {
+        "frame": 74,
+        "sensors": {
+            "gnss": {
+                "latitude": 4.214302,
+                "longitude": 3.031586,
+                "altitude": 3.737447
+            }
+        }
+    },
+    {
+        "frame": 75,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.561583,
+                "longitude": 4.281229,
+                "altitude": 4.031434
+            }
+        }
+    },
+    {
+        "frame": 76,
+        "sensors": {
+            "gnss": {
+                "latitude": 5.647049,
+                "longitude": 1.71059,
+                "altitude": 2.167538
+            }
+        }
+    },
+    {
+        "frame": 77,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.360375,
+                "longitude": 3.404231,
+                "altitude": 3.154526
+            }
+        }
+    },
+    {
+        "frame": 78,
+        "sensors": {
+            "gnss": {
+                "latitude": 6.89432,
+                "longitude": 1.647811,
+                "altitude": 8.602283
+            }
+        }
+    },
+    {
+        "frame": 79,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.279883,
+                "longitude": 7.185196,
+                "altitude": 2.839894
+            }
+        }
+    },
+    {
+        "frame": 80,
+        "sensors": {
+            "gnss": {
+                "latitude": 0.962326,
+                "longitude": 5.383539,
+                "altitude": 4.904806
+            }
+        }
+    },
+    {
+        "frame": 81,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.970703,
+                "longitude": 8.016421,
+                "altitude": 8.35754
+            }
+        }
+    },
+    {
+        "frame": 82,
+        "sensors": {
+            "gnss": {
+                "latitude": 4.165103,
+                "longitude": 3.22283,
+                "altitude": 3.80962
+            }
+        }
+    },
+    {
+        "frame": 83,
+        "sensors": {
+            "gnss": {
+                "latitude": 2.321083,
+                "longitude": 4.579536,
+                "altitude": 3.305207
+            }
+        }
+    },
+    {
+        "frame": 84,
+        "sensors": {
+            "gnss": {
+                "latitude": 6.263927,
+                "longitude": 0.334283,
+                "altitude": 1.416048
+            }
+        }
+    },
+    {
+        "frame": 85,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.100718,
+                "longitude": 8.305996,
+                "altitude": 8.371571
+            }
+        }
+    },
+    {
+        "frame": 86,
+        "sensors": {
+            "gnss": {
+                "latitude": 5.619425,
+                "longitude": 7.125652,
+                "altitude": 1.816124
+            }
+        }
+    },
+    {
+        "frame": 87,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.889857,
+                "longitude": 4.91799,
+                "altitude": 1.197379
+            }
+        }
+    },
+    {
+        "frame": 88,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.872157,
+                "longitude": 0.821362,
+                "altitude": 6.91505
+            }
+        }
+    },
+    {
+        "frame": 89,
+        "sensors": {
+            "gnss": {
+                "latitude": 0.624599,
+                "longitude": 4.389688,
+                "altitude": 5.883276
+            }
+        }
+    },
+    {
+        "frame": 90,
+        "sensors": {
+            "gnss": {
+                "latitude": 6.783639,
+                "longitude": 2.341175,
+                "altitude": 1.869087
+            }
+        }
+    },
+    {
+        "frame": 91,
+        "sensors": {
+            "gnss": {
+                "latitude": 2.743893,
+                "longitude": 7.216252,
+                "altitude": 8.765052
+            }
+        }
+    },
+    {
+        "frame": 92,
+        "sensors": {
+            "gnss": {
+                "latitude": 6.787048,
+                "longitude": 5.960621,
+                "altitude": 7.014377
+            }
+        }
+    },
+    {
+        "frame": 93,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.734265,
+                "longitude": 0.127091,
+                "altitude": 0.124222
+            }
+        }
+    },
+    {
+        "frame": 94,
+        "sensors": {
+            "gnss": {
+                "latitude": 2.190332,
+                "longitude": 2.982242,
+                "altitude": 4.868293
+            }
+        }
+    },
+    {
+        "frame": 95,
+        "sensors": {
+            "gnss": {
+                "latitude": 6.060551,
+                "longitude": 0.736533,
+                "altitude": 0.391409
+            }
+        }
+    },
+    {
+        "frame": 96,
+        "sensors": {
+            "gnss": {
+                "latitude": 7.440439,
+                "longitude": 8.473816,
+                "altitude": 5.961707
+            }
+        }
+    },
+    {
+        "frame": 97,
+        "sensors": {
+            "gnss": {
+                "latitude": 4.817737,
+                "longitude": 4.036275,
+                "altitude": 4.300336
+            }
+        }
+    },
+    {
+        "frame": 98,
+        "sensors": {
+            "gnss": {
+                "latitude": 6.381843,
+                "longitude": 5.606107,
+                "altitude": 6.566409
+            }
+        }
+    },
+    {
+        "frame": 99,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.903095,
+                "longitude": 6.810544,
+                "altitude": 6.792034
+            }
+        }
+    }
+]

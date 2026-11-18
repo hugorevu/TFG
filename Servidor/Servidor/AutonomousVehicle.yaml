@@ -1,0 +1,21 @@
+type: object
+title: AutonomousVehicle
+description: AutonomousVehicle entity
+properties:
+  type:
+    description: NGSI entity type. It must be AutonomousVehicle
+    type: string
+    enum:
+      - AutonomousVehicle
+    x-ngsi:
+      type: Property
+  saeLevel:
+    description: SAE automation level (0-5)
+    type: number
+    minimum: 0
+    maximum: 5
+    x-ngsi:
+      type: Property
+required:
+- id
+- type

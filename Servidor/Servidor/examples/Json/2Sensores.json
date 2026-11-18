@@ -1,0 +1,2302 @@
+[
+    {
+        "frame": 0,
+        "sensors": {
+            "gnss": {
+                "latitude": 2.992198,
+                "longitude": 8.344528,
+                "altitude": 5.146852
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 4.919604,
+                    "y": 3.945393,
+                    "z": 2.227797
+                },
+                "gyroscope": {
+                    "x": 4.574249,
+                    "y": 1.155266,
+                    "z": 6.812012
+                },
+                "compass": 2.477986
+            }
+        }
+    },
+    {
+        "frame": 1,
+        "sensors": {
+            "gnss": {
+                "latitude": 8.71387,
+                "longitude": 8.664143,
+                "altitude": 7.113842
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 0.219195,
+                    "y": 6.936133,
+                    "z": 1.031639
+                },
+                "gyroscope": {
+                    "x": 5.498053,
+                    "y": 6.278576,
+                    "z": 8.867898
+                },
+                "compass": 6.71931
+            }
+        }
+    },
+    {
+        "frame": 2,
+        "sensors": {
+            "gnss": {
+                "latitude": 0.769632,
+                "longitude": 3.875538,
+                "altitude": 0.882129
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 1.460744,
+                    "y": 0.840753,
+                    "z": 8.260727
+                },
+                "gyroscope": {
+                    "x": 8.041926,
+                    "y": 1.959505,
+                    "z": 7.981538
+                },
+                "compass": 7.381218
+            }
+        }
+    },
+    {
+        "frame": 3,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.55156,
+                "longitude": 5.450051,
+                "altitude": 6.063778
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 0.871548,
+                    "y": 3.425207,
+                    "z": 8.25255
+                },
+                "gyroscope": {
+                    "x": 1.552467,
+                    "y": 2.714278,
+                    "z": 8.629487
+                },
+                "compass": 2.365577
+            }
+        }
+    },
+    {
+        "frame": 4,
+        "sensors": {
+            "gnss": {
+                "latitude": 5.092459,
+                "longitude": 1.880633,
+                "altitude": 5.213706
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 4.585027,
+                    "y": 3.52382,
+                    "z": 2.143232
+                },
+                "gyroscope": {
+                    "x": 3.335123,
+                    "y": 1.81236,
+                    "z": 4.946967
+                },
+                "compass": 4.601732
+            }
+        }
+    },
+    {
+        "frame": 5,
+        "sensors": {
+            "gnss": {
+                "latitude": 7.508946,
+                "longitude": 0.853416,
+                "altitude": 7.884192
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 0.04327,
+                    "y": 8.187618,
+                    "z": 0.834409
+                },
+                "gyroscope": {
+                    "x": 8.817777,
+                    "y": 0.708851,
+                    "z": 0.000926
+                },
+                "compass": 4.744158
+            }
+        }
+    },
+    {
+        "frame": 6,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.63553,
+                "longitude": 7.901822,
+                "altitude": 1.359138
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 3.113521,
+                    "y": 6.747359,
+                    "z": 1.837394
+                },
+                "gyroscope": {
+                    "x": 8.172957,
+                    "y": 2.550547,
+                    "z": 7.614168
+                },
+                "compass": 5.931691
+            }
+        }
+    },
+    {
+        "frame": 7,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.299964,
+                "longitude": 3.695322,
+                "altitude": 5.183838
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 8.738399,
+                    "y": 2.5477,
+                    "z": 6.965123
+                },
+                "gyroscope": {
+                    "x": 4.780661,
+                    "y": 8.175541,
+                    "z": 5.863057
+                },
+                "compass": 2.343912
+            }
+        }
+    },
+    {
+        "frame": 8,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.562746,
+                "longitude": 5.048703,
+                "altitude": 1.142751
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 2.085041,
+                    "y": 3.424046,
+                    "z": 2.541168
+                },
+                "gyroscope": {
+                    "x": 6.547007,
+                    "y": 8.420072,
+                    "z": 6.049038
+                },
+                "compass": 7.732084
+            }
+        }
+    },
+    {
+        "frame": 9,
+        "sensors": {
+            "gnss": {
+                "latitude": 0.81477,
+                "longitude": 2.610671,
+                "altitude": 6.177073
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 0.185636,
+                    "y": 8.500827,
+                    "z": 0.435126
+                },
+                "gyroscope": {
+                    "x": 2.843339,
+                    "y": 5.78364,
+                    "z": 2.4958
+                },
+                "compass": 2.591976
+            }
+        }
+    },
+    {
+        "frame": 10,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.402748,
+                "longitude": 7.590195,
+                "altitude": 7.096303
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 1.314634,
+                    "y": 3.509743,
+                    "z": 2.434954
+                },
+                "gyroscope": {
+                    "x": 4.914414,
+                    "y": 2.600325,
+                    "z": 3.725596
+                },
+                "compass": 8.863844
+            }
+        }
+    },
+    {
+        "frame": 11,
+        "sensors": {
+            "gnss": {
+                "latitude": 5.711165,
+                "longitude": 2.431458,
+                "altitude": 5.179804
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 5.603035,
+                    "y": 2.501228,
+                    "z": 1.277412
+                },
+                "gyroscope": {
+                    "x": 4.990939,
+                    "y": 8.595356,
+                    "z": 8.861817
+                },
+                "compass": 5.235959
+            }
+        }
+    },
+    {
+        "frame": 12,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.365262,
+                "longitude": 1.847209,
+                "altitude": 5.600044
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 0.131431,
+                    "y": 0.223708,
+                    "z": 7.898379
+                },
+                "gyroscope": {
+                    "x": 3.732789,
+                    "y": 6.218489,
+                    "z": 1.145063
+                },
+                "compass": 8.56795
+            }
+        }
+    },
+    {
+        "frame": 13,
+        "sensors": {
+            "gnss": {
+                "latitude": 7.284507,
+                "longitude": 0.378785,
+                "altitude": 2.679687
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 0.721986,
+                    "y": 7.599469,
+                    "z": 4.730249
+                },
+                "gyroscope": {
+                    "x": 2.43974,
+                    "y": 4.75421,
+                    "z": 5.455679
+                },
+                "compass": 4.137291
+            }
+        }
+    },
+    {
+        "frame": 14,
+        "sensors": {
+            "gnss": {
+                "latitude": 4.106784,
+                "longitude": 8.769506,
+                "altitude": 5.648557
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 2.416051,
+                    "y": 1.745331,
+                    "z": 3.694141
+                },
+                "gyroscope": {
+                    "x": 6.742304,
+                    "y": 3.745192,
+                    "z": 0.0501
+                },
+                "compass": 6.266156
+            }
+        }
+    },
+    {
+        "frame": 15,
+        "sensors": {
+            "gnss": {
+                "latitude": 4.633667,
+                "longitude": 5.454455,
+                "altitude": 5.118935
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 6.942901,
+                    "y": 1.631265,
+                    "z": 4.87034
+                },
+                "gyroscope": {
+                    "x": 7.678592,
+                    "y": 7.802315,
+                    "z": 2.005287
+                },
+                "compass": 2.997085
+            }
+        }
+    },
+    {
+        "frame": 16,
+        "sensors": {
+            "gnss": {
+                "latitude": 2.290237,
+                "longitude": 5.245146,
+                "altitude": 5.425537
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 5.350919,
+                    "y": 6.529108,
+                    "z": 8.392097
+                },
+                "gyroscope": {
+                    "x": 4.581151,
+                    "y": 3.863464,
+                    "z": 2.699257
+                },
+                "compass": 8.765185
+            }
+        }
+    },
+    {
+        "frame": 17,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.312184,
+                "longitude": 2.457738,
+                "altitude": 7.483862
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 2.936197,
+                    "y": 8.050701,
+                    "z": 6.948887
+                },
+                "gyroscope": {
+                    "x": 7.357226,
+                    "y": 5.835503,
+                    "z": 8.889605
+                },
+                "compass": 4.265817
+            }
+        }
+    },
+    {
+        "frame": 18,
+        "sensors": {
+            "gnss": {
+                "latitude": 6.609951,
+                "longitude": 3.355664,
+                "altitude": 5.700474
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 8.683209,
+                    "y": 3.374281,
+                    "z": 0.209696
+                },
+                "gyroscope": {
+                    "x": 5.132675,
+                    "y": 0.823479,
+                    "z": 2.717656
+                },
+                "compass": 5.509966
+            }
+        }
+    },
+    {
+        "frame": 19,
+        "sensors": {
+            "gnss": {
+                "latitude": 7.114015,
+                "longitude": 6.477957,
+                "altitude": 1.293598
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 1.902676,
+                    "y": 1.834461,
+                    "z": 5.476553
+                },
+                "gyroscope": {
+                    "x": 1.835921,
+                    "y": 4.026914,
+                    "z": 4.603161
+                },
+                "compass": 3.578087
+            }
+        }
+    },
+    {
+        "frame": 20,
+        "sensors": {
+            "gnss": {
+                "latitude": 5.636075,
+                "longitude": 8.006178,
+                "altitude": 1.256871
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 2.236674,
+                    "y": 2.708085,
+                    "z": 8.110785
+                },
+                "gyroscope": {
+                    "x": 1.700151,
+                    "y": 6.803598,
+                    "z": 1.457688
+                },
+                "compass": 8.796615
+            }
+        }
+    },
+    {
+        "frame": 21,
+        "sensors": {
+            "gnss": {
+                "latitude": 2.49943,
+                "longitude": 5.520931,
+                "altitude": 6.316796
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 4.900308,
+                    "y": 6.675414,
+                    "z": 1.948983
+                },
+                "gyroscope": {
+                    "x": 1.66624,
+                    "y": 5.764201,
+                    "z": 8.094193
+                },
+                "compass": 3.495611
+            }
+        }
+    },
+    {
+        "frame": 22,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.039437,
+                "longitude": 1.333213,
+                "altitude": 3.286184
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 0.45753,
+                    "y": 2.286309,
+                    "z": 7.584772
+                },
+                "gyroscope": {
+                    "x": 3.404137,
+                    "y": 7.66053,
+                    "z": 2.642436
+                },
+                "compass": 0.009722
+            }
+        }
+    },
+    {
+        "frame": 23,
+        "sensors": {
+            "gnss": {
+                "latitude": 7.811361,
+                "longitude": 3.799059,
+                "altitude": 2.30459
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 8.805527,
+                    "y": 2.916081,
+                    "z": 6.716388
+                },
+                "gyroscope": {
+                    "x": 8.724019,
+                    "y": 2.791697,
+                    "z": 4.595039
+                },
+                "compass": 4.668317
+            }
+        }
+    },
+    {
+        "frame": 24,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.161304,
+                "longitude": 3.572279,
+                "altitude": 6.850214
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 3.041485,
+                    "y": 8.569971,
+                    "z": 1.488044
+                },
+                "gyroscope": {
+                    "x": 2.191093,
+                    "y": 4.536009,
+                    "z": 3.261205
+                },
+                "compass": 1.299848
+            }
+        }
+    },
+    {
+        "frame": 25,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.092142,
+                "longitude": 5.940659,
+                "altitude": 6.251351
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 3.158519,
+                    "y": 2.753847,
+                    "z": 4.338161
+                },
+                "gyroscope": {
+                    "x": 3.72664,
+                    "y": 0.308925,
+                    "z": 1.693702
+                },
+                "compass": 1.292133
+            }
+        }
+    },
+    {
+        "frame": 26,
+        "sensors": {
+            "gnss": {
+                "latitude": 0.856838,
+                "longitude": 0.156417,
+                "altitude": 7.983517
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 6.890647,
+                    "y": 6.551913,
+                    "z": 5.324827
+                },
+                "gyroscope": {
+                    "x": 5.678974,
+                    "y": 2.53617,
+                    "z": 8.35531
+                },
+                "compass": 4.214532
+            }
+        }
+    },
+    {
+        "frame": 27,
+        "sensors": {
+            "gnss": {
+                "latitude": 5.159637,
+                "longitude": 5.040562,
+                "altitude": 6.081884
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 3.3884,
+                    "y": 5.343803,
+                    "z": 7.494399
+                },
+                "gyroscope": {
+                    "x": 7.26147,
+                    "y": 2.495274,
+                    "z": 7.349164
+                },
+                "compass": 3.95724
+            }
+        }
+    },
+    {
+        "frame": 28,
+        "sensors": {
+            "gnss": {
+                "latitude": 0.716729,
+                "longitude": 3.318818,
+                "altitude": 1.783715
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 7.672201,
+                    "y": 8.49856,
+                    "z": 2.865335
+                },
+                "gyroscope": {
+                    "x": 3.635853,
+                    "y": 4.269231,
+                    "z": 8.698425
+                },
+                "compass": 6.295096
+            }
+        }
+    },
+    {
+        "frame": 29,
+        "sensors": {
+            "gnss": {
+                "latitude": 2.189553,
+                "longitude": 1.047315,
+                "altitude": 3.916194
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 2.139332,
+                    "y": 6.011523,
+                    "z": 0.287125
+                },
+                "gyroscope": {
+                    "x": 1.417824,
+                    "y": 2.002095,
+                    "z": 5.651591
+                },
+                "compass": 6.091647
+            }
+        }
+    },
+    {
+        "frame": 30,
+        "sensors": {
+            "gnss": {
+                "latitude": 2.308774,
+                "longitude": 8.650959,
+                "altitude": 5.173821
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 3.617672,
+                    "y": 0.897553,
+                    "z": 1.711284
+                },
+                "gyroscope": {
+                    "x": 1.115333,
+                    "y": 0.562144,
+                    "z": 1.906228
+                },
+                "compass": 8.513445
+            }
+        }
+    },
+    {
+        "frame": 31,
+        "sensors": {
+            "gnss": {
+                "latitude": 5.559358,
+                "longitude": 4.299689,
+                "altitude": 2.686281
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 7.675029,
+                    "y": 1.494832,
+                    "z": 1.012461
+                },
+                "gyroscope": {
+                    "x": 2.574075,
+                    "y": 0.512871,
+                    "z": 4.540676
+                },
+                "compass": 4.590164
+            }
+        }
+    },
+    {
+        "frame": 32,
+        "sensors": {
+            "gnss": {
+                "latitude": 4.244082,
+                "longitude": 5.495388,
+                "altitude": 6.551162
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 7.453467,
+                    "y": 0.902776,
+                    "z": 2.124529
+                },
+                "gyroscope": {
+                    "x": 2.953961,
+                    "y": 0.607922,
+                    "z": 7.068516
+                },
+                "compass": 4.603817
+            }
+        }
+    },
+    {
+        "frame": 33,
+        "sensors": {
+            "gnss": {
+                "latitude": 4.768003,
+                "longitude": 7.823397,
+                "altitude": 0.638128
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 5.052999,
+                    "y": 3.158397,
+                    "z": 2.708657
+                },
+                "gyroscope": {
+                    "x": 7.860417,
+                    "y": 0.112183,
+                    "z": 4.499456
+                },
+                "compass": 3.260782
+            }
+        }
+    },
+    {
+        "frame": 34,
+        "sensors": {
+            "gnss": {
+                "latitude": 7.303748,
+                "longitude": 3.402118,
+                "altitude": 8.578837
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 6.856247,
+                    "y": 4.252311,
+                    "z": 8.811458
+                },
+                "gyroscope": {
+                    "x": 0.447204,
+                    "y": 7.344576,
+                    "z": 6.871819
+                },
+                "compass": 4.910721
+            }
+        }
+    },
+    {
+        "frame": 35,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.597512,
+                "longitude": 1.148368,
+                "altitude": 8.37321
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 2.956289,
+                    "y": 6.162296,
+                    "z": 3.93278
+                },
+                "gyroscope": {
+                    "x": 2.553967,
+                    "y": 3.803822,
+                    "z": 6.001954
+                },
+                "compass": 1.514649
+            }
+        }
+    },
+    {
+        "frame": 36,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.516961,
+                "longitude": 7.815652,
+                "altitude": 8.987414
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 7.671823,
+                    "y": 5.616924,
+                    "z": 6.211585
+                },
+                "gyroscope": {
+                    "x": 4.595085,
+                    "y": 8.021073,
+                    "z": 1.332636
+                },
+                "compass": 3.829324
+            }
+        }
+    },
+    {
+        "frame": 37,
+        "sensors": {
+            "gnss": {
+                "latitude": 7.827834,
+                "longitude": 3.266534,
+                "altitude": 0.780889
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 1.626424,
+                    "y": 6.163118,
+                    "z": 0.430994
+                },
+                "gyroscope": {
+                    "x": 7.860976,
+                    "y": 1.511606,
+                    "z": 6.306664
+                },
+                "compass": 1.374667
+            }
+        }
+    },
+    {
+        "frame": 38,
+        "sensors": {
+            "gnss": {
+                "latitude": 0.385685,
+                "longitude": 7.543196,
+                "altitude": 6.21234
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 6.473435,
+                    "y": 5.959193,
+                    "z": 5.97088
+                },
+                "gyroscope": {
+                    "x": 3.054156,
+                    "y": 7.332085,
+                    "z": 6.065731
+                },
+                "compass": 0.093993
+            }
+        }
+    },
+    {
+        "frame": 39,
+        "sensors": {
+            "gnss": {
+                "latitude": 6.878636,
+                "longitude": 0.559902,
+                "altitude": 8.683375
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 2.722078,
+                    "y": 6.806366,
+                    "z": 5.167834
+                },
+                "gyroscope": {
+                    "x": 4.659239,
+                    "y": 0.659691,
+                    "z": 7.869396
+                },
+                "compass": 7.005619
+            }
+        }
+    },
+    {
+        "frame": 40,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.867631,
+                "longitude": 1.065124,
+                "altitude": 8.640489
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 0.31522,
+                    "y": 7.081802,
+                    "z": 6.53431
+                },
+                "gyroscope": {
+                    "x": 4.14165,
+                    "y": 6.658776,
+                    "z": 0.396843
+                },
+                "compass": 6.588191
+            }
+        }
+    },
+    {
+        "frame": 41,
+        "sensors": {
+            "gnss": {
+                "latitude": 2.319156,
+                "longitude": 5.45598,
+                "altitude": 2.374691
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 2.397066,
+                    "y": 6.788891,
+                    "z": 1.570689
+                },
+                "gyroscope": {
+                    "x": 6.686314,
+                    "y": 5.977676,
+                    "z": 8.857064
+                },
+                "compass": 0.850832
+            }
+        }
+    },
+    {
+        "frame": 42,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.999572,
+                "longitude": 5.146239,
+                "altitude": 5.300033
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 6.532586,
+                    "y": 1.64692,
+                    "z": 3.774102
+                },
+                "gyroscope": {
+                    "x": 0.496416,
+                    "y": 5.363221,
+                    "z": 7.960714
+                },
+                "compass": 3.373174
+            }
+        }
+    },
+    {
+        "frame": 43,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.517821,
+                "longitude": 6.721396,
+                "altitude": 4.830298
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 6.795315,
+                    "y": 1.576864,
+                    "z": 2.769134
+                },
+                "gyroscope": {
+                    "x": 6.536065,
+                    "y": 2.499199,
+                    "z": 6.584849
+                },
+                "compass": 8.81968
+            }
+        }
+    },
+    {
+        "frame": 44,
+        "sensors": {
+            "gnss": {
+                "latitude": 2.070013,
+                "longitude": 2.95474,
+                "altitude": 0.626988
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 8.376305,
+                    "y": 4.229919,
+                    "z": 2.511039
+                },
+                "gyroscope": {
+                    "x": 3.348461,
+                    "y": 8.843631,
+                    "z": 2.248015
+                },
+                "compass": 5.971304
+            }
+        }
+    },
+    {
+        "frame": 45,
+        "sensors": {
+            "gnss": {
+                "latitude": 7.943181,
+                "longitude": 2.759097,
+                "altitude": 1.689818
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 8.94847,
+                    "y": 0.551213,
+                    "z": 6.322297
+                },
+                "gyroscope": {
+                    "x": 2.412737,
+                    "y": 5.03108,
+                    "z": 7.720913
+                },
+                "compass": 4.589152
+            }
+        }
+    },
+    {
+        "frame": 46,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.342763,
+                "longitude": 1.990286,
+                "altitude": 1.605787
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 2.944113,
+                    "y": 3.73859,
+                    "z": 0.213914
+                },
+                "gyroscope": {
+                    "x": 2.510796,
+                    "y": 4.52917,
+                    "z": 7.313807
+                },
+                "compass": 2.593636
+            }
+        }
+    },
+    {
+        "frame": 47,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.923141,
+                "longitude": 6.742645,
+                "altitude": 8.283198
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 8.201052,
+                    "y": 1.626774,
+                    "z": 4.477171
+                },
+                "gyroscope": {
+                    "x": 6.232955,
+                    "y": 1.516812,
+                    "z": 6.439161
+                },
+                "compass": 6.431491
+            }
+        }
+    },
+    {
+        "frame": 48,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.966256,
+                "longitude": 8.882802,
+                "altitude": 2.509662
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 6.249347,
+                    "y": 3.405252,
+                    "z": 4.841274
+                },
+                "gyroscope": {
+                    "x": 2.574441,
+                    "y": 4.244256,
+                    "z": 8.631408
+                },
+                "compass": 4.141346
+            }
+        }
+    },
+    {
+        "frame": 49,
+        "sensors": {
+            "gnss": {
+                "latitude": 6.653918,
+                "longitude": 0.48969,
+                "altitude": 7.547311
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 7.82689,
+                    "y": 3.614363,
+                    "z": 0.746458
+                },
+                "gyroscope": {
+                    "x": 1.023112,
+                    "y": 3.474357,
+                    "z": 8.126404
+                },
+                "compass": 6.005091
+            }
+        }
+    },
+    {
+        "frame": 50,
+        "sensors": {
+            "gnss": {
+                "latitude": 6.253868,
+                "longitude": 6.794366,
+                "altitude": 6.411701
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 7.607699,
+                    "y": 2.315453,
+                    "z": 8.515219
+                },
+                "gyroscope": {
+                    "x": 0.191882,
+                    "y": 0.53545,
+                    "z": 8.809095
+                },
+                "compass": 6.548372
+            }
+        }
+    },
+    {
+        "frame": 51,
+        "sensors": {
+            "gnss": {
+                "latitude": 7.744287,
+                "longitude": 0.595409,
+                "altitude": 7.817421
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 3.665531,
+                    "y": 2.810839,
+                    "z": 4.758343
+                },
+                "gyroscope": {
+                    "x": 1.177618,
+                    "y": 8.430998,
+                    "z": 1.536359
+                },
+                "compass": 8.649778
+            }
+        }
+    },
+    {
+        "frame": 52,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.394902,
+                "longitude": 7.396107,
+                "altitude": 7.79367
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 4.835107,
+                    "y": 2.112149,
+                    "z": 1.139991
+                },
+                "gyroscope": {
+                    "x": 6.080958,
+                    "y": 5.255653,
+                    "z": 4.348906
+                },
+                "compass": 4.142184
+            }
+        }
+    },
+    {
+        "frame": 53,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.526909,
+                "longitude": 5.006492,
+                "altitude": 6.531848
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 6.109651,
+                    "y": 2.213478,
+                    "z": 3.60591
+                },
+                "gyroscope": {
+                    "x": 7.006852,
+                    "y": 7.982512,
+                    "z": 7.572154
+                },
+                "compass": 0.570791
+            }
+        }
+    },
+    {
+        "frame": 54,
+        "sensors": {
+            "gnss": {
+                "latitude": 4.628237,
+                "longitude": 0.677146,
+                "altitude": 8.761086
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 5.115123,
+                    "y": 8.298668,
+                    "z": 1.346307
+                },
+                "gyroscope": {
+                    "x": 7.102917,
+                    "y": 6.720502,
+                    "z": 3.001631
+                },
+                "compass": 4.452584
+            }
+        }
+    },
+    {
+        "frame": 55,
+        "sensors": {
+            "gnss": {
+                "latitude": 5.872454,
+                "longitude": 8.37481,
+                "altitude": 2.35053
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 0.909929,
+                    "y": 1.064053,
+                    "z": 8.043957
+                },
+                "gyroscope": {
+                    "x": 2.642931,
+                    "y": 0.851679,
+                    "z": 5.141002
+                },
+                "compass": 0.127478
+            }
+        }
+    },
+    {
+        "frame": 56,
+        "sensors": {
+            "gnss": {
+                "latitude": 8.622769,
+                "longitude": 5.700701,
+                "altitude": 0.537227
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 4.868411,
+                    "y": 0.729436,
+                    "z": 8.753798
+                },
+                "gyroscope": {
+                    "x": 6.026843,
+                    "y": 0.534055,
+                    "z": 8.579756
+                },
+                "compass": 4.932064
+            }
+        }
+    },
+    {
+        "frame": 57,
+        "sensors": {
+            "gnss": {
+                "latitude": 8.762557,
+                "longitude": 1.09757,
+                "altitude": 3.37501
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 3.09672,
+                    "y": 7.78824,
+                    "z": 0.626278
+                },
+                "gyroscope": {
+                    "x": 0.331969,
+                    "y": 4.751029,
+                    "z": 6.40428
+                },
+                "compass": 0.09856
+            }
+        }
+    },
+    {
+        "frame": 58,
+        "sensors": {
+            "gnss": {
+                "latitude": 7.24684,
+                "longitude": 4.270799,
+                "altitude": 5.110431
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 3.976431,
+                    "y": 3.241343,
+                    "z": 2.687385
+                },
+                "gyroscope": {
+                    "x": 5.484363,
+                    "y": 4.14425,
+                    "z": 0.950948
+                },
+                "compass": 1.906169
+            }
+        }
+    },
+    {
+        "frame": 59,
+        "sensors": {
+            "gnss": {
+                "latitude": 0.517918,
+                "longitude": 4.73837,
+                "altitude": 8.851048
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 4.05035,
+                    "y": 0.035087,
+                    "z": 6.627197
+                },
+                "gyroscope": {
+                    "x": 0.570024,
+                    "y": 3.367318,
+                    "z": 3.164785
+                },
+                "compass": 6.518365
+            }
+        }
+    },
+    {
+        "frame": 60,
+        "sensors": {
+            "gnss": {
+                "latitude": 8.06813,
+                "longitude": 8.811723,
+                "altitude": 8.549514
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 4.109303,
+                    "y": 0.343545,
+                    "z": 4.962762
+                },
+                "gyroscope": {
+                    "x": 3.591885,
+                    "y": 7.040813,
+                    "z": 5.441497
+                },
+                "compass": 1.538087
+            }
+        }
+    },
+    {
+        "frame": 61,
+        "sensors": {
+            "gnss": {
+                "latitude": 2.872548,
+                "longitude": 4.741157,
+                "altitude": 3.859793
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 6.963519,
+                    "y": 0.462925,
+                    "z": 8.66095
+                },
+                "gyroscope": {
+                    "x": 4.367354,
+                    "y": 6.675141,
+                    "z": 6.75991
+                },
+                "compass": 3.55526
+            }
+        }
+    },
+    {
+        "frame": 62,
+        "sensors": {
+            "gnss": {
+                "latitude": 8.132287,
+                "longitude": 5.673088,
+                "altitude": 2.986311
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 3.098083,
+                    "y": 5.202893,
+                    "z": 2.666972
+                },
+                "gyroscope": {
+                    "x": 3.950957,
+                    "y": 3.795805,
+                    "z": 0.355266
+                },
+                "compass": 6.826207
+            }
+        }
+    },
+    {
+        "frame": 63,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.386609,
+                "longitude": 5.695571,
+                "altitude": 7.096067
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 5.333036,
+                    "y": 1.669204,
+                    "z": 1.866846
+                },
+                "gyroscope": {
+                    "x": 8.861469,
+                    "y": 1.703707,
+                    "z": 7.856927
+                },
+                "compass": 2.527474
+            }
+        }
+    },
+    {
+        "frame": 64,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.532343,
+                "longitude": 8.675693,
+                "altitude": 0.412787
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 4.863972,
+                    "y": 5.434315,
+                    "z": 3.992517
+                },
+                "gyroscope": {
+                    "x": 2.216928,
+                    "y": 6.877591,
+                    "z": 3.252072
+                },
+                "compass": 6.699169
+            }
+        }
+    },
+    {
+        "frame": 65,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.047615,
+                "longitude": 6.967738,
+                "altitude": 3.708672
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 6.684503,
+                    "y": 8.46202,
+                    "z": 7.835207
+                },
+                "gyroscope": {
+                    "x": 5.918447,
+                    "y": 5.578818,
+                    "z": 8.963525
+                },
+                "compass": 2.992845
+            }
+        }
+    },
+    {
+        "frame": 66,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.851429,
+                "longitude": 7.336769,
+                "altitude": 7.805126
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 6.946171,
+                    "y": 0.019239,
+                    "z": 4.391587
+                },
+                "gyroscope": {
+                    "x": 7.174752,
+                    "y": 7.119003,
+                    "z": 0.706512
+                },
+                "compass": 4.337591
+            }
+        }
+    },
+    {
+        "frame": 67,
+        "sensors": {
+            "gnss": {
+                "latitude": 8.296695,
+                "longitude": 3.817469,
+                "altitude": 4.5705
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 6.847383,
+                    "y": 3.505553,
+                    "z": 6.867626
+                },
+                "gyroscope": {
+                    "x": 4.414449,
+                    "y": 2.97689,
+                    "z": 3.835198
+                },
+                "compass": 8.93272
+            }
+        }
+    },
+    {
+        "frame": 68,
+        "sensors": {
+            "gnss": {
+                "latitude": 0.038042,
+                "longitude": 2.913221,
+                "altitude": 5.080069
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 3.502183,
+                    "y": 7.474264,
+                    "z": 5.100679
+                },
+                "gyroscope": {
+                    "x": 3.627634,
+                    "y": 5.224488,
+                    "z": 6.853909
+                },
+                "compass": 1.934837
+            }
+        }
+    },
+    {
+        "frame": 69,
+        "sensors": {
+            "gnss": {
+                "latitude": 5.388922,
+                "longitude": 1.24144,
+                "altitude": 1.4622
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 5.741399,
+                    "y": 8.446535,
+                    "z": 3.127821
+                },
+                "gyroscope": {
+                    "x": 7.808526,
+                    "y": 8.317192,
+                    "z": 6.375398
+                },
+                "compass": 4.872895
+            }
+        }
+    },
+    {
+        "frame": 70,
+        "sensors": {
+            "gnss": {
+                "latitude": 4.911261,
+                "longitude": 5.156492,
+                "altitude": 4.123874
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 4.511783,
+                    "y": 0.999158,
+                    "z": 6.171951
+                },
+                "gyroscope": {
+                    "x": 0.155068,
+                    "y": 1.609198,
+                    "z": 6.881536
+                },
+                "compass": 1.769854
+            }
+        }
+    },
+    {
+        "frame": 71,
+        "sensors": {
+            "gnss": {
+                "latitude": 7.647004,
+                "longitude": 5.625559,
+                "altitude": 2.361064
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 0.111748,
+                    "y": 3.499244,
+                    "z": 6.340194
+                },
+                "gyroscope": {
+                    "x": 0.305585,
+                    "y": 5.618868,
+                    "z": 0.610431
+                },
+                "compass": 5.598307
+            }
+        }
+    },
+    {
+        "frame": 72,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.479968,
+                "longitude": 3.097048,
+                "altitude": 6.251621
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 2.577311,
+                    "y": 4.636036,
+                    "z": 2.610143
+                },
+                "gyroscope": {
+                    "x": 0.036422,
+                    "y": 3.146985,
+                    "z": 8.24766
+                },
+                "compass": 1.737808
+            }
+        }
+    },
+    {
+        "frame": 73,
+        "sensors": {
+            "gnss": {
+                "latitude": 5.703742,
+                "longitude": 8.393466,
+                "altitude": 8.565258
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 5.631087,
+                    "y": 0.503903,
+                    "z": 7.597469
+                },
+                "gyroscope": {
+                    "x": 7.150152,
+                    "y": 0.235593,
+                    "z": 8.648317
+                },
+                "compass": 1.943229
+            }
+        }
+    },
+    {
+        "frame": 74,
+        "sensors": {
+            "gnss": {
+                "latitude": 2.457519,
+                "longitude": 4.516237,
+                "altitude": 7.17821
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 1.541399,
+                    "y": 6.477814,
+                    "z": 2.470823
+                },
+                "gyroscope": {
+                    "x": 2.759282,
+                    "y": 0.526862,
+                    "z": 2.22867
+                },
+                "compass": 1.5205
+            }
+        }
+    },
+    {
+        "frame": 75,
+        "sensors": {
+            "gnss": {
+                "latitude": 7.276937,
+                "longitude": 3.115961,
+                "altitude": 2.150825
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 7.335772,
+                    "y": 8.516201,
+                    "z": 2.282394
+                },
+                "gyroscope": {
+                    "x": 4.542266,
+                    "y": 4.762328,
+                    "z": 3.528526
+                },
+                "compass": 2.685573
+            }
+        }
+    },
+    {
+        "frame": 76,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.16176,
+                "longitude": 7.370096,
+                "altitude": 5.519486
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 4.271973,
+                    "y": 8.47171,
+                    "z": 0.733262
+                },
+                "gyroscope": {
+                    "x": 7.831292,
+                    "y": 0.488681,
+                    "z": 0.545149
+                },
+                "compass": 6.9773
+            }
+        }
+    },
+    {
+        "frame": 77,
+        "sensors": {
+            "gnss": {
+                "latitude": 8.969069,
+                "longitude": 2.258352,
+                "altitude": 5.777264
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 4.408743,
+                    "y": 0.033271,
+                    "z": 8.217586
+                },
+                "gyroscope": {
+                    "x": 3.768249,
+                    "y": 1.452151,
+                    "z": 4.419594
+                },
+                "compass": 6.912125
+            }
+        }
+    },
+    {
+        "frame": 78,
+        "sensors": {
+            "gnss": {
+                "latitude": 5.951967,
+                "longitude": 2.762744,
+                "altitude": 3.150761
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 6.274724,
+                    "y": 0.567791,
+                    "z": 6.508445
+                },
+                "gyroscope": {
+                    "x": 2.020675,
+                    "y": 1.858449,
+                    "z": 8.222334
+                },
+                "compass": 4.538274
+            }
+        }
+    },
+    {
+        "frame": 79,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.717367,
+                "longitude": 3.0267,
+                "altitude": 5.437819
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 2.31298,
+                    "y": 8.327273,
+                    "z": 1.859938
+                },
+                "gyroscope": {
+                    "x": 8.516298,
+                    "y": 5.746007,
+                    "z": 3.943586
+                },
+                "compass": 0.050013
+            }
+        }
+    },
+    {
+        "frame": 80,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.344094,
+                "longitude": 1.419091,
+                "altitude": 3.622027
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 8.402579,
+                    "y": 7.285056,
+                    "z": 5.024659
+                },
+                "gyroscope": {
+                    "x": 1.627792,
+                    "y": 5.30665,
+                    "z": 2.600085
+                },
+                "compass": 1.716895
+            }
+        }
+    },
+    {
+        "frame": 81,
+        "sensors": {
+            "gnss": {
+                "latitude": 6.832653,
+                "longitude": 7.352978,
+                "altitude": 0.25127
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 7.370668,
+                    "y": 3.502041,
+                    "z": 5.74411
+                },
+                "gyroscope": {
+                    "x": 8.951594,
+                    "y": 1.699048,
+                    "z": 6.272036
+                },
+                "compass": 1.997592
+            }
+        }
+    },
+    {
+        "frame": 82,
+        "sensors": {
+            "gnss": {
+                "latitude": 0.089348,
+                "longitude": 8.411484,
+                "altitude": 1.776468
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 0.74812,
+                    "y": 4.185184,
+                    "z": 5.05759
+                },
+                "gyroscope": {
+                    "x": 4.689099,
+                    "y": 4.587201,
+                    "z": 7.236108
+                },
+                "compass": 5.140569
+            }
+        }
+    },
+    {
+        "frame": 83,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.676167,
+                "longitude": 2.04636,
+                "altitude": 7.494533
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 2.869743,
+                    "y": 1.858139,
+                    "z": 5.605667
+                },
+                "gyroscope": {
+                    "x": 7.11064,
+                    "y": 8.560938,
+                    "z": 3.140119
+                },
+                "compass": 0.101891
+            }
+        }
+    },
+    {
+        "frame": 84,
+        "sensors": {
+            "gnss": {
+                "latitude": 4.809951,
+                "longitude": 8.056007,
+                "altitude": 3.720436
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 1.097555,
+                    "y": 3.62797,
+                    "z": 7.924841
+                },
+                "gyroscope": {
+                    "x": 4.167828,
+                    "y": 0.475494,
+                    "z": 1.22964
+                },
+                "compass": 6.512664
+            }
+        }
+    },
+    {
+        "frame": 85,
+        "sensors": {
+            "gnss": {
+                "latitude": 7.907295,
+                "longitude": 6.840346,
+                "altitude": 3.508232
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 1.200475,
+                    "y": 2.184813,
+                    "z": 6.398882
+                },
+                "gyroscope": {
+                    "x": 1.77961,
+                    "y": 2.327327,
+                    "z": 4.316166
+                },
+                "compass": 3.885359
+            }
+        }
+    },
+    {
+        "frame": 86,
+        "sensors": {
+            "gnss": {
+                "latitude": 5.603449,
+                "longitude": 8.344342,
+                "altitude": 8.812744
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 1.751721,
+                    "y": 0.60341,
+                    "z": 8.662013
+                },
+                "gyroscope": {
+                    "x": 7.330725,
+                    "y": 3.028251,
+                    "z": 6.323635
+                },
+                "compass": 6.479142
+            }
+        }
+    },
+    {
+        "frame": 87,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.855919,
+                "longitude": 8.2337,
+                "altitude": 3.795371
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 6.433371,
+                    "y": 8.860287,
+                    "z": 1.841341
+                },
+                "gyroscope": {
+                    "x": 0.430814,
+                    "y": 3.732046,
+                    "z": 2.763584
+                },
+                "compass": 7.076072
+            }
+        }
+    },
+    {
+        "frame": 88,
+        "sensors": {
+            "gnss": {
+                "latitude": 6.387786,
+                "longitude": 0.70326,
+                "altitude": 1.024202
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 6.675228,
+                    "y": 0.175291,
+                    "z": 3.706307
+                },
+                "gyroscope": {
+                    "x": 3.874977,
+                    "y": 5.747762,
+                    "z": 5.25819
+                },
+                "compass": 3.047037
+            }
+        }
+    },
+    {
+        "frame": 89,
+        "sensors": {
+            "gnss": {
+                "latitude": 0.884937,
+                "longitude": 4.073101,
+                "altitude": 5.633815
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 2.365062,
+                    "y": 2.467123,
+                    "z": 7.590852
+                },
+                "gyroscope": {
+                    "x": 5.714529,
+                    "y": 3.813576,
+                    "z": 1.271677
+                },
+                "compass": 7.082179
+            }
+        }
+    },
+    {
+        "frame": 90,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.458735,
+                "longitude": 4.217621,
+                "altitude": 6.05994
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 4.929453,
+                    "y": 6.510605,
+                    "z": 6.065936
+                },
+                "gyroscope": {
+                    "x": 0.110064,
+                    "y": 7.693215,
+                    "z": 6.645898
+                },
+                "compass": 0.827958
+            }
+        }
+    },
+    {
+        "frame": 91,
+        "sensors": {
+            "gnss": {
+                "latitude": 7.615285,
+                "longitude": 6.395764,
+                "altitude": 0.221476
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 5.445887,
+                    "y": 0.480368,
+                    "z": 1.174909
+                },
+                "gyroscope": {
+                    "x": 4.329205,
+                    "y": 6.228876,
+                    "z": 5.922139
+                },
+                "compass": 6.5089
+            }
+        }
+    },
+    {
+        "frame": 92,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.5796,
+                "longitude": 5.494358,
+                "altitude": 5.170368
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 8.092271,
+                    "y": 3.871794,
+                    "z": 0.498322
+                },
+                "gyroscope": {
+                    "x": 7.512836,
+                    "y": 8.295099,
+                    "z": 4.247086
+                },
+                "compass": 3.973654
+            }
+        }
+    },
+    {
+        "frame": 93,
+        "sensors": {
+            "gnss": {
+                "latitude": 7.7627,
+                "longitude": 6.098842,
+                "altitude": 0.345098
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 3.494784,
+                    "y": 4.872457,
+                    "z": 2.384288
+                },
+                "gyroscope": {
+                    "x": 2.739965,
+                    "y": 8.757491,
+                    "z": 4.943117
+                },
+                "compass": 1.217739
+            }
+        }
+    },
+    {
+        "frame": 94,
+        "sensors": {
+            "gnss": {
+                "latitude": 6.064265,
+                "longitude": 2.82722,
+                "altitude": 7.351195
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 7.891692,
+                    "y": 4.331737,
+                    "z": 5.378556
+                },
+                "gyroscope": {
+                    "x": 1.663642,
+                    "y": 5.365489,
+                    "z": 8.407732
+                },
+                "compass": 7.604277
+            }
+        }
+    },
+    {
+        "frame": 95,
+        "sensors": {
+            "gnss": {
+                "latitude": 1.897417,
+                "longitude": 4.717954,
+                "altitude": 1.435336
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 4.056154,
+                    "y": 5.040567,
+                    "z": 8.34341
+                },
+                "gyroscope": {
+                    "x": 0.217242,
+                    "y": 3.039014,
+                    "z": 6.98757
+                },
+                "compass": 8.853222
+            }
+        }
+    },
+    {
+        "frame": 96,
+        "sensors": {
+            "gnss": {
+                "latitude": 0.656231,
+                "longitude": 5.100901,
+                "altitude": 7.35783
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 5.750669,
+                    "y": 7.794552,
+                    "z": 8.955563
+                },
+                "gyroscope": {
+                    "x": 3.712085,
+                    "y": 1.025378,
+                    "z": 0.246204
+                },
+                "compass": 1.225706
+            }
+        }
+    },
+    {
+        "frame": 97,
+        "sensors": {
+            "gnss": {
+                "latitude": 7.070129,
+                "longitude": 1.821628,
+                "altitude": 8.28673
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 0.6497,
+                    "y": 2.036443,
+                    "z": 7.087581
+                },
+                "gyroscope": {
+                    "x": 8.814377,
+                    "y": 4.821084,
+                    "z": 2.72318
+                },
+                "compass": 2.247259
+            }
+        }
+    },
+    {
+        "frame": 98,
+        "sensors": {
+            "gnss": {
+                "latitude": 5.826369,
+                "longitude": 0.877847,
+                "altitude": 7.815334
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 5.221072,
+                    "y": 4.072344,
+                    "z": 6.210337
+                },
+                "gyroscope": {
+                    "x": 5.742862,
+                    "y": 2.559703,
+                    "z": 2.598242
+                },
+                "compass": 5.05673
+            }
+        }
+    },
+    {
+        "frame": 99,
+        "sensors": {
+            "gnss": {
+                "latitude": 3.729225,
+                "longitude": 4.872122,
+                "altitude": 7.095879
+            },
+            "imu": {
+                "accelerometer": {
+                    "x": 3.828973,
+                    "y": 5.905293,
+                    "z": 2.079194
+                },
+                "gyroscope": {
+                    "x": 4.618919,
+                    "y": 4.731344,
+                    "z": 8.554009
+                },
+                "compass": 6.796892
+            }
+        }
+    }
+]

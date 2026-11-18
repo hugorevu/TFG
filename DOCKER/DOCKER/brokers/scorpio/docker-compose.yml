@@ -1,0 +1,55 @@
+services:
+  postgres:
+    image: postgis/postgis:14-3.3
+    container_name: scorpio-postgres
+    environment:
+      POSTGRES_USER: ngb
+      POSTGRES_PASSWORD: ngb
+      POSTGRES_DB: ngb
+    ports:
+      - "5433:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ngb -d ngb"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+
+  scorpio:
+    image: quay.io/fiware/scorpio:latest
+    container_name: scorpio
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      QUARKUS_HTTP_PORT: 9090
+      DBHOST: postgres
+      DBPORT: 5432
+      DBUSER: ngb
+      DBPASS: ngb
+      DBNAME: ngb
+      GATEWAY_HOST: localhost
+      GATEWAY_PORT: 9090
+      
+      # Logging
+      QUARKUS_LOG_LEVEL: WARN
+
+      # Pool de conexiones reactivas
+      QUARKUS_DATASOURCE_REACTIVE_MAX_SIZE: 50
+      QUARKUS_DATASOURCE_REACTIVE_IDLE_TIMEOUT: 15s
+    ports:
+      - "9090:9090"
+
+  grafana:
+    image: grafana/grafana:latest
+    container_name: grafana
+    ports:
+      - "3000:3000"
+    environment:
+    - GF_SECURITY_ADMIN_USER=admin
+    - GF_SECURITY_ADMIN_PASSWORD=admin
+
+volumes:
+  pgdata:

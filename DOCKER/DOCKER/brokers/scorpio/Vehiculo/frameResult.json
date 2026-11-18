@@ -1,0 +1,13 @@
+{
+  "id": "urn:ngsi-ld:FrameResult:001",
+  "type": "FrameResult",
+  "value": {
+    "type": "Property",
+    "value": "http://example.org/frame001.jpg"
+  },
+  "@context": [
+  "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+  "https://cdn.jsdelivr.net/gh/hugorevu/VehicleSDM@c47c817/datamodels.context-ngsi.jsonld"
+  
+]
+}

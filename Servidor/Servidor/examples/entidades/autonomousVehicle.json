@@ -1,0 +1,16 @@
+{
+  "id": "urn:ngsi-ld:AutonomousVehicle:001",
+  "type": "AutonomousVehicle",
+  "saeLevel": {
+    "type": "Property",
+    "value": 4
+  },
+  "dateCreated": {
+    "type": "Property",
+    "value": "2026-01-01T00:00:00Z"
+  },
+  "@context": [
+    "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld",
+    "https://cdn.jsdelivr.net/gh/hugorevu/dataModel.AutonomousVehicle@cbd61d0/FIWARE_DEVICE_MODEL/examples/datamodels.context-ngsi.jsonld"
+  ]
+}
